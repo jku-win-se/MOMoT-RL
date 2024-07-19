@@ -1,0 +1,406 @@
+Search started.
+-------------------------------------------------------
+Search
+-------------------------------------------------------
+Objectives:      [CRAIndex, SolutionLength]
+NrObjectives:    2
+Constraints:     []
+NrConstraints:   0
+Transformations: [transformations/architecture.henshin]
+Units:           [Rule reassignFeature(inout featureName, inout className)]
+SolutionLength:  36
+PopulationSize:  100
+Iterations:      200
+MaxEvaluations:  20000
+AlgorithmRuns:   30
+---------------------------
+Run 'NSGAII-2' 30 times...
+[15:00:30.022] Run 1 of 30 started.
+[15:01:17.403] Run 1 of 30 terminated after 00:00:47.372 (47372 ms).
+[15:01:17.404] Run 2 of 30 started.
+[15:01:40.825] Run 2 of 30 terminated after 00:00:23.420 (23420 ms).
+[15:01:40.825] Run 3 of 30 started.
+[15:01:59.743] Run 3 of 30 terminated after 00:00:18.917 (18917 ms).
+[15:01:59.743] Run 4 of 30 started.
+[15:02:19.817] Run 4 of 30 terminated after 00:00:20.073 (20073 ms).
+[15:02:19.818] Run 5 of 30 started.
+[15:02:40.761] Run 5 of 30 terminated after 00:00:20.943 (20943 ms).
+[15:02:40.762] Run 6 of 30 started.
+[15:02:59.069] Run 6 of 30 terminated after 00:00:18.306 (18306 ms).
+[15:02:59.069] Run 7 of 30 started.
+[15:03:17.269] Run 7 of 30 terminated after 00:00:18.199 (18199 ms).
+[15:03:17.269] Run 8 of 30 started.
+[15:03:37.004] Run 8 of 30 terminated after 00:00:19.734 (19734 ms).
+[15:03:37.005] Run 9 of 30 started.
+[15:03:56.424] Run 9 of 30 terminated after 00:00:19.419 (19419 ms).
+[15:03:56.425] Run 10 of 30 started.
+[15:04:15.478] Run 10 of 30 terminated after 00:00:19.052 (19052 ms).
+[15:04:15.478] Run 11 of 30 started.
+[15:04:33.481] Run 11 of 30 terminated after 00:00:18.002 (18002 ms).
+[15:04:33.482] Run 12 of 30 started.
+[15:04:52.924] Run 12 of 30 terminated after 00:00:19.442 (19442 ms).
+[15:04:52.925] Run 13 of 30 started.
+[15:05:12.623] Run 13 of 30 terminated after 00:00:19.698 (19698 ms).
+[15:05:12.624] Run 14 of 30 started.
+[15:05:30.768] Run 14 of 30 terminated after 00:00:18.143 (18143 ms).
+[15:05:30.769] Run 15 of 30 started.
+[15:05:49.894] Run 15 of 30 terminated after 00:00:19.125 (19125 ms).
+[15:05:49.894] Run 16 of 30 started.
+[15:06:09.627] Run 16 of 30 terminated after 00:00:19.733 (19733 ms).
+[15:06:09.628] Run 17 of 30 started.
+[15:06:28.334] Run 17 of 30 terminated after 00:00:18.705 (18705 ms).
+[15:06:28.334] Run 18 of 30 started.
+[15:06:46.384] Run 18 of 30 terminated after 00:00:18.049 (18049 ms).
+[15:06:46.385] Run 19 of 30 started.
+[15:07:03.627] Run 19 of 30 terminated after 00:00:17.242 (17242 ms).
+[15:07:03.627] Run 20 of 30 started.
+[15:07:20.701] Run 20 of 30 terminated after 00:00:17.073 (17073 ms).
+[15:07:20.702] Run 21 of 30 started.
+[15:07:38.237] Run 21 of 30 terminated after 00:00:17.534 (17534 ms).
+[15:07:38.237] Run 22 of 30 started.
+[15:07:57.565] Run 22 of 30 terminated after 00:00:19.328 (19328 ms).
+[15:07:57.566] Run 23 of 30 started.
+[15:08:17.264] Run 23 of 30 terminated after 00:00:19.697 (19697 ms).
+[15:08:17.264] Run 24 of 30 started.
+[15:08:35.555] Run 24 of 30 terminated after 00:00:18.291 (18291 ms).
+[15:08:35.556] Run 25 of 30 started.
+[15:08:55.370] Run 25 of 30 terminated after 00:00:19.813 (19813 ms).
+[15:08:55.371] Run 26 of 30 started.
+[15:09:14.500] Run 26 of 30 terminated after 00:00:19.128 (19128 ms).
+[15:09:14.500] Run 27 of 30 started.
+[15:09:32.967] Run 27 of 30 terminated after 00:00:18.467 (18467 ms).
+[15:09:32.968] Run 28 of 30 started.
+[15:09:50.229] Run 28 of 30 terminated after 00:00:17.260 (17260 ms).
+[15:09:50.229] Run 29 of 30 started.
+[15:10:09.280] Run 29 of 30 terminated after 00:00:19.050 (19050 ms).
+[15:10:09.280] Run 30 of 30 started.
+[15:10:28.188] Run 30 of 30 terminated after 00:00:18.907 (18907 ms).
+[15:10:28.189] Total runtime for 30 seeds: 00:09:58.167 (598167 ms).
+Run 'QLearningExplore' 30 times...
+[15:10:28.206] Run 1 of 30 started.
+[15:10:52.181] Run 1 of 30 terminated after 00:00:23.975 (23975 ms).
+[15:10:52.182] Run 2 of 30 started.
+Finalizing CustomAlgorithm...
+[15:11:16.291] Run 2 of 30 terminated after 00:00:24.108 (24108 ms).
+[15:11:16.292] Run 3 of 30 started.
+[15:11:40.020] Run 3 of 30 terminated after 00:00:23.728 (23728 ms).
+[15:11:40.021] Run 4 of 30 started.
+Finalizing CustomAlgorithm...
+[15:12:03.461] Run 4 of 30 terminated after 00:00:23.440 (23440 ms).
+[15:12:03.461] Run 5 of 30 started.
+Finalizing CustomAlgorithm...
+[15:12:27.121] Run 5 of 30 terminated after 00:00:23.659 (23659 ms).
+[15:12:27.122] Run 6 of 30 started.
+Finalizing CustomAlgorithm...
+[15:12:50.729] Run 6 of 30 terminated after 00:00:23.607 (23607 ms).
+[15:12:50.730] Run 7 of 30 started.
+Finalizing CustomAlgorithm...
+[15:13:14.292] Run 7 of 30 terminated after 00:00:23.562 (23562 ms).
+[15:13:14.293] Run 8 of 30 started.
+Finalizing CustomAlgorithm...
+[15:13:37.865] Run 8 of 30 terminated after 00:00:23.572 (23572 ms).
+[15:13:37.865] Run 9 of 30 started.
+Finalizing CustomAlgorithm...
+[15:14:01.330] Run 9 of 30 terminated after 00:00:23.464 (23464 ms).
+[15:14:01.331] Run 10 of 30 started.
+Finalizing CustomAlgorithm...
+[15:14:25.015] Run 10 of 30 terminated after 00:00:23.683 (23683 ms).
+[15:14:25.015] Run 11 of 30 started.
+Finalizing CustomAlgorithm...
+[15:14:48.300] Run 11 of 30 terminated after 00:00:23.285 (23285 ms).
+[15:14:48.301] Run 12 of 30 started.
+Finalizing CustomAlgorithm...
+[15:15:11.937] Run 12 of 30 terminated after 00:00:23.636 (23636 ms).
+[15:15:11.938] Run 13 of 30 started.
+Finalizing CustomAlgorithm...
+[15:15:35.906] Run 13 of 30 terminated after 00:00:23.968 (23968 ms).
+[15:15:35.906] Run 14 of 30 started.
+Finalizing CustomAlgorithm...
+[15:15:59.301] Run 14 of 30 terminated after 00:00:23.394 (23394 ms).
+[15:15:59.302] Run 15 of 30 started.
+Finalizing CustomAlgorithm...
+[15:16:22.731] Run 15 of 30 terminated after 00:00:23.429 (23429 ms).
+[15:16:22.732] Run 16 of 30 started.
+Finalizing CustomAlgorithm...
+[15:16:46.336] Run 16 of 30 terminated after 00:00:23.603 (23603 ms).
+[15:16:46.336] Run 17 of 30 started.
+Finalizing CustomAlgorithm...
+[15:17:10.023] Run 17 of 30 terminated after 00:00:23.686 (23686 ms).
+[15:17:10.024] Run 18 of 30 started.
+Finalizing CustomAlgorithm...
+[15:17:33.268] Run 18 of 30 terminated after 00:00:23.244 (23244 ms).
+[15:17:33.269] Run 19 of 30 started.
+Finalizing CustomAlgorithm...
+[15:17:56.763] Run 19 of 30 terminated after 00:00:23.494 (23494 ms).
+[15:17:56.764] Run 20 of 30 started.
+Finalizing CustomAlgorithm...
+[15:18:20.664] Run 20 of 30 terminated after 00:00:23.899 (23899 ms).
+[15:18:20.664] Run 21 of 30 started.
+Finalizing CustomAlgorithm...
+[15:18:44.282] Run 21 of 30 terminated after 00:00:23.617 (23617 ms).
+[15:18:44.282] Run 22 of 30 started.
+Finalizing CustomAlgorithm...
+[15:19:07.810] Run 22 of 30 terminated after 00:00:23.527 (23527 ms).
+[15:19:07.810] Run 23 of 30 started.
+Finalizing CustomAlgorithm...
+[15:19:31.572] Run 23 of 30 terminated after 00:00:23.761 (23761 ms).
+[15:19:31.572] Run 24 of 30 started.
+Finalizing CustomAlgorithm...
+[15:19:55.009] Run 24 of 30 terminated after 00:00:23.436 (23436 ms).
+[15:19:55.010] Run 25 of 30 started.
+Finalizing CustomAlgorithm...
+[15:20:18.444] Run 25 of 30 terminated after 00:00:23.433 (23433 ms).
+[15:20:18.444] Run 26 of 30 started.
+Finalizing CustomAlgorithm...
+[15:20:41.978] Run 26 of 30 terminated after 00:00:23.533 (23533 ms).
+[15:20:41.979] Run 27 of 30 started.
+Finalizing CustomAlgorithm...
+[15:21:05.513] Run 27 of 30 terminated after 00:00:23.534 (23534 ms).
+[15:21:05.513] Run 28 of 30 started.
+Finalizing CustomAlgorithm...
+[15:21:29.662] Run 28 of 30 terminated after 00:00:24.148 (24148 ms).
+[15:21:29.663] Run 29 of 30 started.
+Finalizing CustomAlgorithm...
+[15:21:52.840] Run 29 of 30 terminated after 00:00:23.177 (23177 ms).
+[15:21:52.841] Run 30 of 30 started.
+Finalizing CustomAlgorithm...
+[15:22:16.538] Run 30 of 30 terminated after 00:00:23.697 (23697 ms).
+[15:22:16.538] Total runtime for 30 seeds: 00:11:48.332 (708332 ms).
+Run 'QLearning' 30 times...
+[15:22:16.540] Run 1 of 30 started.
+Finalizing CustomAlgorithm...
+[15:22:58.964] Run 1 of 30 terminated after 00:00:42.423 (42423 ms).
+[15:22:58.964] Run 2 of 30 started.
+[15:23:41.413] Run 2 of 30 terminated after 00:00:42.448 (42448 ms).
+[15:23:41.413] Run 3 of 30 started.
+[15:24:24.384] Run 3 of 30 terminated after 00:00:42.970 (42970 ms).
+[15:24:24.385] Run 4 of 30 started.
+Finalizing CustomAlgorithm...
+[15:25:06.579] Run 4 of 30 terminated after 00:00:42.193 (42193 ms).
+[15:25:06.579] Run 5 of 30 started.
+Finalizing CustomAlgorithm...
+[15:25:48.343] Run 5 of 30 terminated after 00:00:41.763 (41763 ms).
+[15:25:48.343] Run 6 of 30 started.
+Finalizing CustomAlgorithm...
+[15:26:29.731] Run 6 of 30 terminated after 00:00:41.387 (41387 ms).
+[15:26:29.731] Run 7 of 30 started.
+Finalizing CustomAlgorithm...
+[15:27:12.271] Run 7 of 30 terminated after 00:00:42.540 (42540 ms).
+[15:27:12.272] Run 8 of 30 started.
+Finalizing CustomAlgorithm...
+[15:27:53.050] Run 8 of 30 terminated after 00:00:40.777 (40777 ms).
+[15:27:53.050] Run 9 of 30 started.
+Finalizing CustomAlgorithm...
+[15:28:34.722] Run 9 of 30 terminated after 00:00:41.671 (41671 ms).
+[15:28:34.722] Run 10 of 30 started.
+Finalizing CustomAlgorithm...
+[15:29:15.894] Run 10 of 30 terminated after 00:00:41.172 (41172 ms).
+[15:29:15.895] Run 11 of 30 started.
+[15:29:57.064] Run 11 of 30 terminated after 00:00:41.169 (41169 ms).
+[15:29:57.065] Run 12 of 30 started.
+Finalizing CustomAlgorithm...
+[15:30:37.892] Run 12 of 30 terminated after 00:00:40.827 (40827 ms).
+[15:30:37.893] Run 13 of 30 started.
+[15:31:20.161] Run 13 of 30 terminated after 00:00:42.268 (42268 ms).
+[15:31:20.161] Run 14 of 30 started.
+Finalizing CustomAlgorithm...
+[15:32:01.573] Run 14 of 30 terminated after 00:00:41.411 (41411 ms).
+[15:32:01.573] Run 15 of 30 started.
+[15:32:42.918] Run 15 of 30 terminated after 00:00:41.344 (41344 ms).
+[15:32:42.919] Run 16 of 30 started.
+[15:33:24.748] Run 16 of 30 terminated after 00:00:41.829 (41829 ms).
+[15:33:24.749] Run 17 of 30 started.
+Finalizing CustomAlgorithm...
+[15:34:05.842] Run 17 of 30 terminated after 00:00:41.093 (41093 ms).
+[15:34:05.843] Run 18 of 30 started.
+[15:34:47.352] Run 18 of 30 terminated after 00:00:41.509 (41509 ms).
+[15:34:47.353] Run 19 of 30 started.
+[15:35:28.499] Run 19 of 30 terminated after 00:00:41.146 (41146 ms).
+[15:35:28.499] Run 20 of 30 started.
+Finalizing CustomAlgorithm...
+[15:36:09.598] Run 20 of 30 terminated after 00:00:41.098 (41098 ms).
+[15:36:09.598] Run 21 of 30 started.
+Finalizing CustomAlgorithm...
+[15:36:53.453] Run 21 of 30 terminated after 00:00:43.854 (43854 ms).
+[15:36:53.453] Run 22 of 30 started.
+Finalizing CustomAlgorithm...
+[15:37:34.198] Run 22 of 30 terminated after 00:00:40.744 (40744 ms).
+[15:37:34.198] Run 23 of 30 started.
+Finalizing CustomAlgorithm...
+[15:38:14.565] Run 23 of 30 terminated after 00:00:40.366 (40366 ms).
+[15:38:14.565] Run 24 of 30 started.
+Finalizing CustomAlgorithm...
+[15:38:56.627] Run 24 of 30 terminated after 00:00:42.061 (42061 ms).
+[15:38:56.627] Run 25 of 30 started.
+Finalizing CustomAlgorithm...
+[15:39:38.811] Run 25 of 30 terminated after 00:00:42.183 (42183 ms).
+[15:39:38.811] Run 26 of 30 started.
+Finalizing CustomAlgorithm...
+[15:40:20.389] Run 26 of 30 terminated after 00:00:41.577 (41577 ms).
+[15:40:20.390] Run 27 of 30 started.
+Finalizing CustomAlgorithm...
+[15:41:02.417] Run 27 of 30 terminated after 00:00:42.026 (42026 ms).
+[15:41:02.417] Run 28 of 30 started.
+Finalizing CustomAlgorithm...
+[15:41:43.754] Run 28 of 30 terminated after 00:00:41.336 (41336 ms).
+[15:41:43.754] Run 29 of 30 started.
+Finalizing CustomAlgorithm...
+[15:42:24.814] Run 29 of 30 terminated after 00:00:41.059 (41059 ms).
+[15:42:24.814] Run 30 of 30 started.
+Finalizing CustomAlgorithm...
+[15:43:05.788] Run 30 of 30 terminated after 00:00:40.973 (40973 ms).
+[15:43:05.789] Total runtime for 30 seeds: 00:20:49.249 (1249249 ms).
+-------------------------------------------------------
+Analysis
+-------------------------------------------------------
+---------------------------
+Analysis Results
+---------------------------
+QLearningExplore:
+    Hypervolume: 
+        Aggregate: 0.6744324045407636
+        Min: 0.5941692466460268
+        Median: 0.6306243550051599
+        Max: 0.6580495356037152
+        Mean: 0.6290557275541796
+        StandardDeviation: 0.014685946203295192
+        Variance: 2.1567701588608043E-4
+        Count: 30
+        Indifferent: []
+        EffectSize: [
+            - { measure: CohensD, algorithm: QLearning, effectSize: 5.982279233329792, magnitude: large }
+            - { measure: CliffsDelta, algorithm: QLearning, effectSize: 1.0, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: QLearning, effectSize: 1.0 }
+            - { measure: CohensD, algorithm: NSGAII-2, effectSize: 4.609455765788158, magnitude: large }
+            - { measure: CliffsDelta, algorithm: NSGAII-2, effectSize: 1.0, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII-2, effectSize: 1.0 }
+        ]
+        Values: [0.6424148606811146, 0.602734778121775, 0.6354489164086686, 0.6496904024767802, 0.629127966976264, 0.6235810113519092, 0.5941692466460268, 0.6434468524251805, 0.6307017543859649, 0.6292569659442725, 0.6346233230134158, 0.6148090815273478, 0.6323529411764707, 0.6181630546955625, 0.6395768833849329, 0.6191950464396284, 0.6127450980392157, 0.6388028895768832, 0.6382868937048504, 0.6305469556243549, 0.6580495356037152, 0.6094771241830065, 0.621749226006192, 0.6341589267285862, 0.6444788441692467, 0.6514447884416924, 0.6144134846921224, 0.6233230134158927, 0.6359649122807017, 0.618937048503612]
+QLearning:
+    Hypervolume: 
+        Aggregate: 0.5565015479876162
+        Min: 0.4143446852425181
+        Median: 0.4841073271413828
+        Max: 0.5410216718266253
+        Mean: 0.48510233918128653
+        StandardDeviation: 0.0306986634011394
+        Variance: 9.424079346164558E-4
+        Count: 30
+        Indifferent: []
+        EffectSize: [
+            - { measure: CohensD, algorithm: QLearningExplore, effectSize: 5.982279233329792, magnitude: large }
+            - { measure: CliffsDelta, algorithm: QLearningExplore, effectSize: 1.0, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: QLearningExplore, effectSize: 0.0 }
+            - { measure: CohensD, algorithm: NSGAII-2, effectSize: 1.8535676718866536, magnitude: large }
+            - { measure: CliffsDelta, algorithm: NSGAII-2, effectSize: 0.8044444444444444, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII-2, effectSize: 0.9022222222222223 }
+        ]
+        Values: [0.4143446852425181, 0.5171826625386996, 0.4658926728586171, 0.44427244582043335, 0.5147058823529412, 0.4468524251805985, 0.49019607843137253, 0.519091847265222, 0.5410216718266253, 0.4473684210526315, 0.4842105263157895, 0.4754901960784313, 0.4840041279669762, 0.5046439628482973, 0.46955624355005154, 0.5046439628482972, 0.5180598555211557, 0.4742002063983488, 0.45665634674922606, 0.5323787409700721, 0.5335397316821465, 0.5028379772961815, 0.4731682146542827, 0.501031991744066, 0.5018059855521155, 0.46284829721362225, 0.47394220846233226, 0.4896800825593395, 0.45743034055727544, 0.45201238390092874]
+NSGAII-2:
+    Hypervolume: 
+        Aggregate: 0.609907120743034
+        Min: 0.26127450980392153
+        Median: 0.3756449948400413
+        Max: 0.5727554179566562
+        Mean: 0.37822984749455335
+        StandardDeviation: 0.0755408376027047
+        Variance: 0.005706418145718204
+        Count: 30
+        Indifferent: []
+        EffectSize: [
+            - { measure: CohensD, algorithm: QLearningExplore, effectSize: 4.609455765788158, magnitude: large }
+            - { measure: CliffsDelta, algorithm: QLearningExplore, effectSize: 1.0, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: QLearningExplore, effectSize: 0.0 }
+            - { measure: CohensD, algorithm: QLearning, effectSize: 1.8535676718866536, magnitude: large }
+            - { measure: CliffsDelta, algorithm: QLearning, effectSize: 0.8044444444444444, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: QLearning, effectSize: 0.09777777777777778 }
+        ]
+        Values: [0.3751289989680082, 0.3286635706914345, 0.4287925696594427, 0.36625386996904025, 0.28753869969040247, 0.4641382868937048, 0.4213106295149639, 0.27347781217750256, 0.34055727554179566, 0.3890608875128999, 0.3746130030959752, 0.2665118679050567, 0.26127450980392153, 0.4102167182662539, 0.3825077399380805, 0.40806673546611627, 0.3169504643962848, 0.5727554179566562, 0.37848297213622295, 0.4597523219814242, 0.4210526315789474, 0.3281733746130031, 0.35190918472652216, 0.5371517027863777, 0.29282765737874095, 0.47239422084623317, 0.33111455108359134, 0.3761609907120744, 0.31511867905056756, 0.414938080495356]
+---------------------------
+- Save Analysis to 'output/analysis/analysis.txt'
+- Save Indicator BoxPlots to 'output/analysis/'
+-------------------------------------------------------
+Results
+-------------------------------------------------------
+REFERENCE SET:
+
+15.0 0.0
+12.5 1.0
+10.25 2.0
+6.25 4.0
+4.25 5.0
+2.25 6.0
+0.75 7.0
+8.166666666666666 3.0
+-3.5 15.0
+-0.3333333333333339 8.0
+-1.7999999999999998 10.0
+-1.5000000000000009 9.0
+-2.625 11.0
+-3.0 12.0
+-4.0 17.0
+
+- Save objectives of all algorithms to 'output/objectives/objective_values.txt'
+- Save models of all algorithms to 'output/models/'
+- Save objectives of algorithms seperately to 'output/objectives/<algorithm>.txt'
+- Save models of algorithms seperately to 'output/solutions/<algorithm>.txt'´
+
+QLearning
+15.0 0.0
+12.5 1.0
+10.25 2.0
+4.833333333333332 5.0
+1.75 9.0
+8.25 3.0
+2.9999999999999996 6.0
+2.0 7.0
+1.9999999999999987 8.0
+-0.0 32.0
+6.25 4.0
+1.6666666666666652 12.0
+0.9166666666666661 14.0
+0.8333333333333335 15.0
+
+
+NSGAII-2
+-2.7 17.0
+9.0 3.0
+6.0 5.0
+3.0 6.0
+7.0 4.0
+1.0 8.0
+2.5 7.0
+-0.0 9.0
+-2.4999999999999996 12.0
+-1.0 10.0
+-2.0 11.0
+
+
+QLearningExplore
+15.0 0.0
+12.5 1.0
+10.25 2.0
+6.25 4.0
+4.25 5.0
+2.25 6.0
+0.75 7.0
+8.166666666666666 3.0
+-3.5 15.0
+-0.3333333333333339 8.0
+-1.7999999999999998 10.0
+-1.5000000000000009 9.0
+-2.625 11.0
+-3.0 12.0
+-4.0 17.0
+
+
+Search finished
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...

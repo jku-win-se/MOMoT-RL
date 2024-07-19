@@ -1,0 +1,383 @@
+-------------------------------------------------------
+Search
+-------------------------------------------------------
+InputModel:      model/SeveralRefactorings.xmi
+Objectives:      [SolutionLength, ContentSize]
+NrObjectives:    2
+Constraints:     []
+NrConstraints:   0
+Transformations: [transformations/Refactoring.henshin]
+Units:           [Rule createRootClass(n, e1, e2), Rule extractSuperClass(n, e1, e2), Rule pullUpAttribute(e, n)]
+SolutionLength:  10
+PopulationSize:  15
+Iterations:      66
+MaxEvaluations:  1000
+AlgorithmRuns:   30
+---------------------------
+Run 'NSGAII-2' 30 times...
+[16:48:55.086] Run 1 of 30 started.
+[16:49:05.023] Run 1 of 30 terminated after 00:00:09.933 (9933 ms).
+[16:49:05.024] Run 2 of 30 started.
+[16:49:20.248] Run 2 of 30 terminated after 00:00:15.224 (15224 ms).
+[16:49:20.249] Run 3 of 30 started.
+[16:49:37.485] Run 3 of 30 terminated after 00:00:17.236 (17236 ms).
+[16:49:37.486] Run 4 of 30 started.
+[16:49:51.907] Run 4 of 30 terminated after 00:00:14.421 (14421 ms).
+[16:49:51.908] Run 5 of 30 started.
+[16:50:10.492] Run 5 of 30 terminated after 00:00:18.583 (18583 ms).
+[16:50:10.492] Run 6 of 30 started.
+[16:50:25.792] Run 6 of 30 terminated after 00:00:15.299 (15299 ms).
+[16:50:25.793] Run 7 of 30 started.
+[16:50:41.691] Run 7 of 30 terminated after 00:00:15.898 (15898 ms).
+[16:50:41.692] Run 8 of 30 started.
+[16:50:58.786] Run 8 of 30 terminated after 00:00:17.093 (17093 ms).
+[16:50:58.786] Run 9 of 30 started.
+[16:51:16.270] Run 9 of 30 terminated after 00:00:17.483 (17483 ms).
+[16:51:16.271] Run 10 of 30 started.
+[16:51:32.987] Run 10 of 30 terminated after 00:00:16.715 (16715 ms).
+[16:51:32.987] Run 11 of 30 started.
+[16:51:48.489] Run 11 of 30 terminated after 00:00:15.501 (15501 ms).
+[16:51:48.490] Run 12 of 30 started.
+[16:52:05.969] Run 12 of 30 terminated after 00:00:17.479 (17479 ms).
+[16:52:05.970] Run 13 of 30 started.
+[16:52:19.559] Run 13 of 30 terminated after 00:00:13.588 (13588 ms).
+[16:52:19.560] Run 14 of 30 started.
+[16:52:37.867] Run 14 of 30 terminated after 00:00:18.306 (18306 ms).
+[16:52:37.867] Run 15 of 30 started.
+[16:52:52.078] Run 15 of 30 terminated after 00:00:14.210 (14210 ms).
+[16:52:52.079] Run 16 of 30 started.
+[16:53:09.608] Run 16 of 30 terminated after 00:00:17.528 (17528 ms).
+[16:53:09.608] Run 17 of 30 started.
+[16:53:25.567] Run 17 of 30 terminated after 00:00:15.958 (15958 ms).
+[16:53:25.567] Run 18 of 30 started.
+[16:53:42.725] Run 18 of 30 terminated after 00:00:17.158 (17158 ms).
+[16:53:42.726] Run 19 of 30 started.
+[16:53:57.321] Run 19 of 30 terminated after 00:00:14.595 (14595 ms).
+[16:53:57.322] Run 20 of 30 started.
+[16:54:11.806] Run 20 of 30 terminated after 00:00:14.484 (14484 ms).
+[16:54:11.807] Run 21 of 30 started.
+[16:54:28.832] Run 21 of 30 terminated after 00:00:17.025 (17025 ms).
+[16:54:28.833] Run 22 of 30 started.
+[16:54:43.420] Run 22 of 30 terminated after 00:00:14.586 (14586 ms).
+[16:54:43.420] Run 23 of 30 started.
+[16:55:01.636] Run 23 of 30 terminated after 00:00:18.215 (18215 ms).
+[16:55:01.636] Run 24 of 30 started.
+[16:55:15.858] Run 24 of 30 terminated after 00:00:14.221 (14221 ms).
+[16:55:15.859] Run 25 of 30 started.
+[16:55:31.196] Run 25 of 30 terminated after 00:00:15.337 (15337 ms).
+[16:55:31.196] Run 26 of 30 started.
+[16:55:50.393] Run 26 of 30 terminated after 00:00:19.196 (19196 ms).
+[16:55:50.394] Run 27 of 30 started.
+[16:56:05.247] Run 27 of 30 terminated after 00:00:14.852 (14852 ms).
+[16:56:05.248] Run 28 of 30 started.
+[16:56:21.636] Run 28 of 30 terminated after 00:00:16.388 (16388 ms).
+[16:56:21.637] Run 29 of 30 started.
+[16:56:39.334] Run 29 of 30 terminated after 00:00:17.697 (17697 ms).
+[16:56:39.335] Run 30 of 30 started.
+[16:56:56.870] Run 30 of 30 terminated after 00:00:17.535 (17535 ms).
+[16:56:56.872] Total runtime for 30 seeds: 00:08:01.786 (481786 ms).
+Run 'QLearningExplore' 30 times...
+[16:56:56.889] Run 1 of 30 started.
+[16:57:56.405] Run 1 of 30 terminated after 00:00:59.515 (59515 ms).
+[16:57:56.405] Run 2 of 30 started.
+[16:58:55.296] Run 2 of 30 terminated after 00:00:58.890 (58890 ms).
+[16:58:55.296] Run 3 of 30 started.
+[16:59:54.200] Run 3 of 30 terminated after 00:00:58.903 (58903 ms).
+[16:59:54.202] Run 4 of 30 started.
+[17:00:53.764] Run 4 of 30 terminated after 00:00:59.561 (59561 ms).
+[17:00:53.764] Run 5 of 30 started.
+[17:01:55.284] Run 5 of 30 terminated after 00:01:01.519 (61519 ms).
+[17:01:55.285] Run 6 of 30 started.
+[17:03:01.239] Run 6 of 30 terminated after 00:01:05.954 (65954 ms).
+[17:03:01.239] Run 7 of 30 started.
+[17:04:05.320] Run 7 of 30 terminated after 00:01:04.080 (64080 ms).
+[17:04:05.320] Run 8 of 30 started.
+[17:05:04.531] Run 8 of 30 terminated after 00:00:59.210 (59210 ms).
+[17:05:04.532] Run 9 of 30 started.
+[17:06:05.981] Run 9 of 30 terminated after 00:01:01.448 (61448 ms).
+[17:06:05.981] Run 10 of 30 started.
+[17:07:07.574] Run 10 of 30 terminated after 00:01:01.592 (61592 ms).
+[17:07:07.575] Run 11 of 30 started.
+[17:08:07.813] Run 11 of 30 terminated after 00:01:00.238 (60238 ms).
+[17:08:07.814] Run 12 of 30 started.
+[17:09:06.691] Run 12 of 30 terminated after 00:00:58.877 (58877 ms).
+[17:09:06.692] Run 13 of 30 started.
+[17:10:08.696] Run 13 of 30 terminated after 00:01:02.004 (62004 ms).
+[17:10:08.697] Run 14 of 30 started.
+[17:11:04.023] Run 14 of 30 terminated after 00:00:55.326 (55326 ms).
+[17:11:04.023] Run 15 of 30 started.
+[17:12:04.079] Run 15 of 30 terminated after 00:01:00.055 (60055 ms).
+[17:12:04.079] Run 16 of 30 started.
+[17:13:08.742] Run 16 of 30 terminated after 00:01:04.662 (64662 ms).
+[17:13:08.742] Run 17 of 30 started.
+[17:14:06.659] Run 17 of 30 terminated after 00:00:57.916 (57916 ms).
+[17:14:06.659] Run 18 of 30 started.
+[17:15:05.338] Run 18 of 30 terminated after 00:00:58.678 (58678 ms).
+[17:15:05.338] Run 19 of 30 started.
+[17:16:06.737] Run 19 of 30 terminated after 00:01:01.398 (61398 ms).
+[17:16:06.738] Run 20 of 30 started.
+[17:17:06.115] Run 20 of 30 terminated after 00:00:59.377 (59377 ms).
+[17:17:06.116] Run 21 of 30 started.
+[17:18:10.885] Run 21 of 30 terminated after 00:01:04.769 (64769 ms).
+[17:18:10.885] Run 22 of 30 started.
+[17:19:13.163] Run 22 of 30 terminated after 00:01:02.277 (62277 ms).
+[17:19:13.163] Run 23 of 30 started.
+[17:20:11.346] Run 23 of 30 terminated after 00:00:58.183 (58183 ms).
+[17:20:11.347] Run 24 of 30 started.
+[17:21:10.750] Run 24 of 30 terminated after 00:00:59.403 (59403 ms).
+[17:21:10.752] Run 25 of 30 started.
+[17:22:11.719] Run 25 of 30 terminated after 00:01:00.966 (60966 ms).
+[17:22:11.719] Run 26 of 30 started.
+[17:23:10.428] Run 26 of 30 terminated after 00:00:58.708 (58708 ms).
+[17:23:10.428] Run 27 of 30 started.
+[17:24:09.857] Run 27 of 30 terminated after 00:00:59.428 (59428 ms).
+[17:24:09.857] Run 28 of 30 started.
+[17:25:07.317] Run 28 of 30 terminated after 00:00:57.459 (57459 ms).
+[17:25:07.317] Run 29 of 30 started.
+[17:26:08.305] Run 29 of 30 terminated after 00:01:00.987 (60987 ms).
+[17:26:08.306] Run 30 of 30 started.
+[17:27:08.321] Run 30 of 30 terminated after 00:01:00.015 (60015 ms).
+[17:27:08.322] Total runtime for 30 seeds: 00:30:11.432 (1811432 ms).
+Run 'QLearning' 30 times...
+[17:27:08.324] Run 1 of 30 started.
+[17:28:18.383] Run 1 of 30 terminated after 00:01:10.058 (70058 ms).
+[17:28:18.384] Run 2 of 30 started.
+[17:29:21.948] Run 2 of 30 terminated after 00:01:03.563 (63563 ms).
+[17:29:21.948] Run 3 of 30 started.
+[17:30:28.846] Run 3 of 30 terminated after 00:01:06.898 (66898 ms).
+[17:30:28.847] Run 4 of 30 started.
+[17:31:38.441] Run 4 of 30 terminated after 00:01:09.593 (69593 ms).
+[17:31:38.441] Run 5 of 30 started.
+[17:32:42.325] Run 5 of 30 terminated after 00:01:03.884 (63884 ms).
+[17:32:42.326] Run 6 of 30 started.
+[17:33:47.523] Run 6 of 30 terminated after 00:01:05.197 (65197 ms).
+[17:33:47.523] Run 7 of 30 started.
+[17:34:54.276] Run 7 of 30 terminated after 00:01:06.752 (66752 ms).
+[17:34:54.277] Run 8 of 30 started.
+[17:36:02.408] Run 8 of 30 terminated after 00:01:08.131 (68131 ms).
+[17:36:02.409] Run 9 of 30 started.
+[17:37:08.379] Run 9 of 30 terminated after 00:01:05.969 (65969 ms).
+[17:37:08.379] Run 10 of 30 started.
+[17:38:13.447] Run 10 of 30 terminated after 00:01:05.067 (65067 ms).
+[17:38:13.447] Run 11 of 30 started.
+[17:39:20.045] Run 11 of 30 terminated after 00:01:06.598 (66598 ms).
+[17:39:20.046] Run 12 of 30 started.
+[17:40:24.760] Run 12 of 30 terminated after 00:01:04.714 (64714 ms).
+[17:40:24.761] Run 13 of 30 started.
+[17:41:32.033] Run 13 of 30 terminated after 00:01:07.272 (67272 ms).
+[17:41:32.033] Run 14 of 30 started.
+[17:42:33.154] Run 14 of 30 terminated after 00:01:01.120 (61120 ms).
+[17:42:33.155] Run 15 of 30 started.
+[17:43:41.206] Run 15 of 30 terminated after 00:01:08.050 (68050 ms).
+[17:43:41.206] Run 16 of 30 started.
+[17:44:45.331] Run 16 of 30 terminated after 00:01:04.124 (64124 ms).
+[17:44:45.331] Run 17 of 30 started.
+[17:45:53.985] Run 17 of 30 terminated after 00:01:08.654 (68654 ms).
+[17:45:53.986] Run 18 of 30 started.
+[17:46:57.490] Run 18 of 30 terminated after 00:01:03.503 (63503 ms).
+[17:46:57.490] Run 19 of 30 started.
+[17:48:03.899] Run 19 of 30 terminated after 00:01:06.408 (66408 ms).
+[17:48:03.900] Run 20 of 30 started.
+[17:49:11.691] Run 20 of 30 terminated after 00:01:07.790 (67790 ms).
+[17:49:11.691] Run 21 of 30 started.
+[17:50:18.709] Run 21 of 30 terminated after 00:01:07.018 (67018 ms).
+[17:50:18.710] Run 22 of 30 started.
+[17:51:26.414] Run 22 of 30 terminated after 00:01:07.703 (67703 ms).
+[17:51:26.414] Run 23 of 30 started.
+[17:52:28.123] Run 23 of 30 terminated after 00:01:01.708 (61708 ms).
+[17:52:28.124] Run 24 of 30 started.
+[17:53:33.758] Run 24 of 30 terminated after 00:01:05.634 (65634 ms).
+[17:53:33.758] Run 25 of 30 started.
+[17:54:42.226] Run 25 of 30 terminated after 00:01:08.468 (68468 ms).
+[17:54:42.227] Run 26 of 30 started.
+[17:55:53.415] Run 26 of 30 terminated after 00:01:11.188 (71188 ms).
+[17:55:53.416] Run 27 of 30 started.
+[17:56:59.096] Run 27 of 30 terminated after 00:01:05.680 (65680 ms).
+[17:56:59.096] Run 28 of 30 started.
+[17:58:09.576] Run 28 of 30 terminated after 00:01:10.479 (70479 ms).
+[17:58:09.576] Run 29 of 30 started.
+[17:59:14.655] Run 29 of 30 terminated after 00:01:05.078 (65078 ms).
+[17:59:14.656] Run 30 of 30 started.
+[18:00:17.597] Run 30 of 30 terminated after 00:01:02.941 (62941 ms).
+[18:00:17.598] Total runtime for 30 seeds: 00:33:09.273 (1989273 ms).
+-------------------------------------------------------
+Analysis
+-------------------------------------------------------
+---------------------------
+Analysis Results
+---------------------------
+QLearningExplore:
+    Hypervolume: 
+        Aggregate: 0.48484848484848486
+        Min: 0.4696969696969697
+        Median: 0.48484848484848486
+        Max: 0.48484848484848486
+        Mean: 0.48434343434343435
+        StandardDeviation: 0.0027662755429553815
+        Variance: 7.652280379553092E-6
+        Count: 30
+        Indifferent: [QLearning]
+        EffectSize: [
+            - { measure: CohensD, algorithm: QLearning, effectSize: 0.749810394760567, magnitude: medium }
+            - { measure: CliffsDelta, algorithm: QLearning, effectSize: 0.33555555555555555, magnitude: medium }
+            - { measure: VarghaDelaneyA, algorithm: QLearning, effectSize: 0.6677777777777778 }
+            - { measure: CohensD, algorithm: NSGAII-2, effectSize: 1.6253613252676224, magnitude: large }
+            - { measure: CliffsDelta, algorithm: NSGAII-2, effectSize: 0.8133333333333334, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII-2, effectSize: 0.9066666666666666 }
+        ]
+        Values: [0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.4696969696969697, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486]
+QLearning:
+    Hypervolume: 
+        Aggregate: 0.48484848484848486
+        Min: 0.42424242424242425
+        Median: 0.48484848484848486
+        Max: 0.48484848484848486
+        Mean: 0.4772727272727273
+        StandardDeviation: 0.013045967595803318
+        Variance: 1.7019727051075022E-4
+        Count: 30
+        Indifferent: [QLearningExplore]
+        EffectSize: [
+            - { measure: CohensD, algorithm: QLearningExplore, effectSize: 0.749810394760567, magnitude: medium }
+            - { measure: CliffsDelta, algorithm: QLearningExplore, effectSize: 0.33555555555555555, magnitude: medium }
+            - { measure: VarghaDelaneyA, algorithm: QLearningExplore, effectSize: 0.3322222222222222 }
+            - { measure: CohensD, algorithm: NSGAII-2, effectSize: 1.0605887444473858, magnitude: large }
+            - { measure: CliffsDelta, algorithm: NSGAII-2, effectSize: 0.56, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII-2, effectSize: 0.78 }
+        ]
+        Values: [0.4696969696969697, 0.4696969696969697, 0.4545454545454546, 0.48484848484848486, 0.4696969696969697, 0.4696969696969697, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.4696969696969697, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.42424242424242425, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.48484848484848486, 0.4696969696969697, 0.48484848484848486, 0.4696969696969697, 0.48484848484848486, 0.48484848484848486, 0.4696969696969697, 0.48484848484848486, 0.48484848484848486, 0.4696969696969697]
+NSGAII-2:
+    Hypervolume: 
+        Aggregate: 0.48484848484848486
+        Min: 0.40909090909090917
+        Median: 0.4696969696969697
+        Max: 0.48484848484848486
+        Mean: 0.4570707070707071
+        StandardDeviation: 0.023567986907257567
+        Variance: 5.55450006860664E-4
+        Count: 30
+        Indifferent: []
+        EffectSize: [
+            - { measure: CohensD, algorithm: QLearningExplore, effectSize: 1.6253613252676224, magnitude: large }
+            - { measure: CliffsDelta, algorithm: QLearningExplore, effectSize: 0.8133333333333334, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: QLearningExplore, effectSize: 0.09333333333333334 }
+            - { measure: CohensD, algorithm: QLearning, effectSize: 1.0605887444473858, magnitude: large }
+            - { measure: CliffsDelta, algorithm: QLearning, effectSize: 0.56, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: QLearning, effectSize: 0.22 }
+        ]
+        Values: [0.4696969696969697, 0.4545454545454546, 0.4696969696969697, 0.4696969696969697, 0.4696969696969697, 0.4696969696969697, 0.4242424242424243, 0.4696969696969697, 0.48484848484848486, 0.48484848484848486, 0.4696969696969697, 0.43939393939393945, 0.4242424242424243, 0.4242424242424243, 0.4696969696969697, 0.4696969696969697, 0.4696969696969697, 0.4696969696969697, 0.4242424242424243, 0.40909090909090917, 0.48484848484848486, 0.48484848484848486, 0.43939393939393945, 0.48484848484848486, 0.43939393939393945, 0.4696969696969697, 0.4545454545454546, 0.4696969696969697, 0.43939393939393945, 0.40909090909090917]
+---------------------------
+- Save Analysis to 'output/analysis/analysis.txt'
+- Save Indicator BoxPlots to 'output/analysis/'
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+-------------------------------------------------------
+Results
+-------------------------------------------------------
+REFERENCE SET:
+
+0.0 37.0
+2.0 32.0
+3.0 31.0
+1.0 34.0
+6.0 26.0
+4.0 29.0
+5.0 27.0
+
+- Save objectives of all algorithms to 'output/objectives/objective_values.txt'
+Directory 'output/objectives' does not exist, it will be created.
+- Save models of all algorithms to 'output/models/'
+Directory 'output/models' does not exist, it will be created.
+- Save objectives of algorithms seperately to 'output/objectives/<algorithm>.txt'
+- Save models of algorithms seperately to 'output/solutions/<algorithm>.txt'´
+
+QLearning
+0.0 37.0
+2.0 32.0
+3.0 31.0
+1.0 34.0
+6.0 26.0
+4.0 29.0
+5.0 27.0
+
+
+Directory 'output/models/QLearning' does not exist, it will be created.
+NSGAII-2
+6.0 26.0
+2.0 32.0
+4.0 29.0
+5.0 27.0
+3.0 31.0
+1.0 34.0
+0.0 37.0
+
+
+Directory 'output/models/NSGAII-2' does not exist, it will be created.
+QLearningExplore
+0.0 37.0
+1.0 34.0
+2.0 32.0
+3.0 31.0
+4.0 29.0
+6.0 26.0
+5.0 27.0
+
+
+Directory 'output/models/QLearningExplore' does not exist, it will be created.

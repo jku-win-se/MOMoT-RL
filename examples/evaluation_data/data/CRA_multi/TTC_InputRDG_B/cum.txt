@@ -1,0 +1,45 @@
+
+Chebycheff-10
+Average: 0.5922696446936458
+Standard Deviation: 0.03178011533471946
+Max: 0.6852537557455645
+Min: 0.5382752455181989
+Count: 30
+Converged after iter. (avg): 1970.0
+Execution time (avg): 22.6
+
+NSGAII-2
+Average: 0.49388644500084916
+Standard Deviation: 0.0574627112744841
+Max: 0.6030553585151035
+Min: 0.39146604398986057
+Count: 30
+Converged after iter. (avg): 1993.3333333333333
+Execution time (avg): 17.9
+
+PQ-HV-Local10
+Average: 0.5907228517012705
+Standard Deviation: 0.022536558738778145
+Max: 0.6305171779431759
+Min: 0.5513459489207398
+Count: 30
+Converged after iter. (avg): 1970.0
+Execution time (avg): 22.8
+
+PQ-PO-Local10
+Average: 0.5815627582253592
+Standard Deviation: 0.02272879339948111
+Max: 0.6235360781792768
+Min: 0.5278757572293559
+Count: 30
+Converged after iter. (avg): 1963.3333333333333
+Execution time (avg): 22.5
+
+Tournament-Local10
+Average: 0.5884266884465185
+Standard Deviation: 0.02896664834282068
+Max: 0.6679870912424788
+Min: 0.5500336218382247
+Count: 30
+Converged after iter. (avg): 1986.6666666666667
+Execution time (avg): 22.833333333333332

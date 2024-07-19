@@ -1,0 +1,27 @@
+
+QLearning
+Average: 0.36657097542637257
+Standard Deviation: 0.047056657462366494
+Max: 0.4671768109649662
+Min: 0.27540867693855875
+Count: 30
+Converged after iter. (avg): 900.0
+Execution time (avg): 258.26666666666665
+
+NSGAII-2
+Average: 0.026984864646963314
+Standard Deviation: 0.051969634407530794
+Max: 0.1775377091524587
+Min: 0.0
+Count: 30
+Converged after iter. (avg): 300.0
+Execution time (avg): 152.66666666666666
+
+QLearningExplore
+Average: 0.27075277223123373
+Standard Deviation: 0.002814443431723169
+Max: 0.2729699924625773
+Min: 0.26283166312569417
+Count: 30
+Converged after iter. (avg): 853.3333333333334
+Execution time (avg): 109.46666666666667

@@ -1,0 +1,1470 @@
+Search started.
+-------------------------------------------------------
+Search
+-------------------------------------------------------
+Objectives:      [SolutionLength, Cohesion, Coupling]
+NrObjectives:    3
+Constraints:     []
+NrConstraints:   0
+Transformations: [transformations/architecture.henshin]
+Units:           [Rule reassignFeature(inout featureName, inout className)]
+SolutionLength:  36
+PopulationSize:  100
+Iterations:      200
+MaxEvaluations:  20000
+AlgorithmRuns:   30
+---------------------------
+Run 'Chebycheff-10' 30 times...
+[00:46:54.596] Run 1 of 30 started.
+[00:47:23.556] Run 1 of 30 terminated after 00:00:28.956 (28956 ms).
+[00:47:23.558] Run 2 of 30 started.
+[00:47:48.596] Run 2 of 30 terminated after 00:00:25.038 (25038 ms).
+[00:47:48.599] Run 3 of 30 started.
+[00:48:13.342] Run 3 of 30 terminated after 00:00:24.743 (24743 ms).
+[00:48:13.344] Run 4 of 30 started.
+Finalizing CustomAlgorithm...
+[00:48:36.667] Run 4 of 30 terminated after 00:00:23.323 (23323 ms).
+[00:48:36.668] Run 5 of 30 started.
+Finalizing CustomAlgorithm...
+[00:49:00.026] Run 5 of 30 terminated after 00:00:23.357 (23357 ms).
+[00:49:00.027] Run 6 of 30 started.
+Finalizing CustomAlgorithm...
+[00:49:23.859] Run 6 of 30 terminated after 00:00:23.831 (23831 ms).
+[00:49:23.860] Run 7 of 30 started.
+Finalizing CustomAlgorithm...
+[00:49:47.502] Run 7 of 30 terminated after 00:00:23.641 (23641 ms).
+[00:49:47.503] Run 8 of 30 started.
+Finalizing CustomAlgorithm...
+[00:50:10.988] Run 8 of 30 terminated after 00:00:23.484 (23484 ms).
+[00:50:10.989] Run 9 of 30 started.
+Finalizing CustomAlgorithm...
+[00:50:34.477] Run 9 of 30 terminated after 00:00:23.487 (23487 ms).
+[00:50:34.478] Run 10 of 30 started.
+Finalizing CustomAlgorithm...
+[00:50:57.633] Run 10 of 30 terminated after 00:00:23.154 (23154 ms).
+[00:50:57.633] Run 11 of 30 started.
+Finalizing CustomAlgorithm...
+[00:51:21.043] Run 11 of 30 terminated after 00:00:23.409 (23409 ms).
+[00:51:21.044] Run 12 of 30 started.
+Finalizing CustomAlgorithm...
+[00:51:45.126] Run 12 of 30 terminated after 00:00:24.081 (24081 ms).
+[00:51:45.127] Run 13 of 30 started.
+Finalizing CustomAlgorithm...
+[00:52:09.419] Run 13 of 30 terminated after 00:00:24.291 (24291 ms).
+[00:52:09.420] Run 14 of 30 started.
+Finalizing CustomAlgorithm...
+[00:52:33.022] Run 14 of 30 terminated after 00:00:23.601 (23601 ms).
+[00:52:33.023] Run 15 of 30 started.
+Finalizing CustomAlgorithm...
+[00:52:56.802] Run 15 of 30 terminated after 00:00:23.779 (23779 ms).
+[00:52:56.804] Run 16 of 30 started.
+Finalizing CustomAlgorithm...
+[00:53:20.495] Run 16 of 30 terminated after 00:00:23.691 (23691 ms).
+[00:53:20.496] Run 17 of 30 started.
+Finalizing CustomAlgorithm...
+[00:53:43.849] Run 17 of 30 terminated after 00:00:23.352 (23352 ms).
+[00:53:43.850] Run 18 of 30 started.
+Finalizing CustomAlgorithm...
+[00:54:07.432] Run 18 of 30 terminated after 00:00:23.582 (23582 ms).
+[00:54:07.433] Run 19 of 30 started.
+Finalizing CustomAlgorithm...
+[00:54:31.318] Run 19 of 30 terminated after 00:00:23.884 (23884 ms).
+[00:54:31.319] Run 20 of 30 started.
+Finalizing CustomAlgorithm...
+[00:54:54.967] Run 20 of 30 terminated after 00:00:23.647 (23647 ms).
+[00:54:54.968] Run 21 of 30 started.
+Finalizing CustomAlgorithm...
+[00:55:18.545] Run 21 of 30 terminated after 00:00:23.576 (23576 ms).
+[00:55:18.546] Run 22 of 30 started.
+Finalizing CustomAlgorithm...
+[00:55:42.214] Run 22 of 30 terminated after 00:00:23.667 (23667 ms).
+[00:55:42.215] Run 23 of 30 started.
+Finalizing CustomAlgorithm...
+[00:56:06.057] Run 23 of 30 terminated after 00:00:23.842 (23842 ms).
+[00:56:06.059] Run 24 of 30 started.
+Finalizing CustomAlgorithm...
+[00:56:29.956] Run 24 of 30 terminated after 00:00:23.896 (23896 ms).
+[00:56:29.957] Run 25 of 30 started.
+Finalizing CustomAlgorithm...
+[00:56:53.345] Run 25 of 30 terminated after 00:00:23.387 (23387 ms).
+[00:56:53.345] Run 26 of 30 started.
+Finalizing CustomAlgorithm...
+[00:57:16.771] Run 26 of 30 terminated after 00:00:23.425 (23425 ms).
+[00:57:16.772] Run 27 of 30 started.
+Finalizing CustomAlgorithm...
+[00:57:43.175] Run 27 of 30 terminated after 00:00:26.402 (26402 ms).
+[00:57:43.176] Run 28 of 30 started.
+Finalizing CustomAlgorithm...
+[00:58:06.686] Run 28 of 30 terminated after 00:00:23.509 (23509 ms).
+[00:58:06.687] Run 29 of 30 started.
+Finalizing CustomAlgorithm...
+[00:58:30.016] Run 29 of 30 terminated after 00:00:23.329 (23329 ms).
+[00:58:30.017] Run 30 of 30 started.
+Finalizing CustomAlgorithm...
+[00:58:53.162] Run 30 of 30 terminated after 00:00:23.144 (23144 ms).
+[00:58:53.163] Total runtime for 30 seeds: 00:11:58.566 (718566 ms).
+Run 'PQ-HV-Local10' 30 times...
+[00:58:53.169] Run 1 of 30 started.
+00:58:53.259 [main] WARN org.nd4j.linalg.factory.Nd4jBackend - Skipped [JCublasBackend] backend (unavailable): java.lang.ClassNotFoundException: org.bytedeco.cuda.global.cudart
+00:58:53.272 [main] INFO org.nd4j.linalg.factory.Nd4jBackend - Loaded [CpuBackend] backend
+00:58:54.093 [main] INFO org.nd4j.nativeblas.NativeOpsHolder - Number of threads used for linear algebra: 2
+00:58:54.095 [main] WARN org.nd4j.linalg.cpu.nativecpu.CpuNDArrayFactory - *********************************** CPU Feature Check Warning ***********************************
+00:58:54.095 [main] WARN org.nd4j.linalg.cpu.nativecpu.CpuNDArrayFactory - Warning: Initializing ND4J with Generic x86 binary on a CPU with AVX/AVX2 support
+00:58:54.095 [main] WARN org.nd4j.linalg.cpu.nativecpu.CpuNDArrayFactory - Using ND4J with AVX/AVX2 will improve performance. See deeplearning4j.org/cpu for more details
+00:58:54.095 [main] WARN org.nd4j.linalg.cpu.nativecpu.CpuNDArrayFactory - Or set environment variable ND4J_IGNORE_AVX=true to suppress this warning
+00:58:54.095 [main] WARN org.nd4j.linalg.cpu.nativecpu.CpuNDArrayFactory - *************************************************************************************************
+00:58:54.146 [main] INFO org.nd4j.nativeblas.Nd4jBlas - Number of threads used for OpenMP BLAS: 2
+00:58:54.154 [main] INFO org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner - Backend used: [CPU]; OS: [Linux]
+00:58:54.154 [main] INFO org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner - Cores: [4]; Memory: [30.0GB];
+00:58:54.154 [main] INFO org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner - Blas vendor: [OPENBLAS]
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+Finalizing CustomAlgorithm...
+[00:59:18.523] Run 1 of 30 terminated after 00:00:25.353 (25353 ms).
+[00:59:18.524] Run 2 of 30 started.
+Finalizing CustomAlgorithm...
+[00:59:42.630] Run 2 of 30 terminated after 00:00:24.105 (24105 ms).
+[00:59:42.631] Run 3 of 30 started.
+Finalizing CustomAlgorithm...
+[01:00:06.778] Run 3 of 30 terminated after 00:00:24.147 (24147 ms).
+[01:00:06.779] Run 4 of 30 started.
+Finalizing CustomAlgorithm...
+[01:00:30.460] Run 4 of 30 terminated after 00:00:23.680 (23680 ms).
+[01:00:30.461] Run 5 of 30 started.
+Finalizing CustomAlgorithm...
+[01:00:54.340] Run 5 of 30 terminated after 00:00:23.878 (23878 ms).
+[01:00:54.341] Run 6 of 30 started.
+Finalizing CustomAlgorithm...
+[01:01:18.672] Run 6 of 30 terminated after 00:00:24.331 (24331 ms).
+[01:01:18.673] Run 7 of 30 started.
+Finalizing CustomAlgorithm...
+[01:01:42.146] Run 7 of 30 terminated after 00:00:23.473 (23473 ms).
+[01:01:42.147] Run 8 of 30 started.
+Finalizing CustomAlgorithm...
+[01:02:06.069] Run 8 of 30 terminated after 00:00:23.921 (23921 ms).
+[01:02:06.070] Run 9 of 30 started.
+Finalizing CustomAlgorithm...
+[01:02:30.401] Run 9 of 30 terminated after 00:00:24.330 (24330 ms).
+[01:02:30.404] Run 10 of 30 started.
+Finalizing CustomAlgorithm...
+[01:02:54.033] Run 10 of 30 terminated after 00:00:23.628 (23628 ms).
+[01:02:54.034] Run 11 of 30 started.
+Finalizing CustomAlgorithm...
+[01:03:17.614] Run 11 of 30 terminated after 00:00:23.580 (23580 ms).
+[01:03:17.615] Run 12 of 30 started.
+Finalizing CustomAlgorithm...
+[01:03:40.944] Run 12 of 30 terminated after 00:00:23.328 (23328 ms).
+[01:03:40.945] Run 13 of 30 started.
+Finalizing CustomAlgorithm...
+[01:04:04.828] Run 13 of 30 terminated after 00:00:23.882 (23882 ms).
+[01:04:04.829] Run 14 of 30 started.
+Finalizing CustomAlgorithm...
+[01:04:30.724] Run 14 of 30 terminated after 00:00:25.894 (25894 ms).
+[01:04:30.725] Run 15 of 30 started.
+Finalizing CustomAlgorithm...
+[01:04:55.026] Run 15 of 30 terminated after 00:00:24.301 (24301 ms).
+[01:04:55.027] Run 16 of 30 started.
+Finalizing CustomAlgorithm...
+[01:05:19.089] Run 16 of 30 terminated after 00:00:24.061 (24061 ms).
+[01:05:19.090] Run 17 of 30 started.
+Finalizing CustomAlgorithm...
+[01:05:43.302] Run 17 of 30 terminated after 00:00:24.212 (24212 ms).
+[01:05:43.303] Run 18 of 30 started.
+Finalizing CustomAlgorithm...
+[01:06:07.346] Run 18 of 30 terminated after 00:00:24.043 (24043 ms).
+[01:06:07.348] Run 19 of 30 started.
+Finalizing CustomAlgorithm...
+[01:06:31.918] Run 19 of 30 terminated after 00:00:24.570 (24570 ms).
+[01:06:31.919] Run 20 of 30 started.
+Finalizing CustomAlgorithm...
+[01:06:55.789] Run 20 of 30 terminated after 00:00:23.870 (23870 ms).
+[01:06:55.790] Run 21 of 30 started.
+Finalizing CustomAlgorithm...
+[01:07:19.565] Run 21 of 30 terminated after 00:00:23.775 (23775 ms).
+[01:07:19.566] Run 22 of 30 started.
+Finalizing CustomAlgorithm...
+[01:07:44.156] Run 22 of 30 terminated after 00:00:24.590 (24590 ms).
+[01:07:44.157] Run 23 of 30 started.
+Finalizing CustomAlgorithm...
+[01:08:08.671] Run 23 of 30 terminated after 00:00:24.513 (24513 ms).
+[01:08:08.672] Run 24 of 30 started.
+Finalizing CustomAlgorithm...
+[01:08:32.729] Run 24 of 30 terminated after 00:00:24.057 (24057 ms).
+[01:08:32.730] Run 25 of 30 started.
+Finalizing CustomAlgorithm...
+[01:08:56.896] Run 25 of 30 terminated after 00:00:24.165 (24165 ms).
+[01:08:56.897] Run 26 of 30 started.
+Finalizing CustomAlgorithm...
+[01:09:20.949] Run 26 of 30 terminated after 00:00:24.052 (24052 ms).
+[01:09:20.950] Run 27 of 30 started.
+Finalizing CustomAlgorithm...
+[01:09:45.158] Run 27 of 30 terminated after 00:00:24.207 (24207 ms).
+[01:09:45.159] Run 28 of 30 started.
+Finalizing CustomAlgorithm...
+[01:10:09.215] Run 28 of 30 terminated after 00:00:24.055 (24055 ms).
+[01:10:09.215] Run 29 of 30 started.
+Finalizing CustomAlgorithm...
+[01:10:32.841] Run 29 of 30 terminated after 00:00:23.625 (23625 ms).
+[01:10:32.842] Run 30 of 30 started.
+Finalizing CustomAlgorithm...
+[01:10:56.760] Run 30 of 30 terminated after 00:00:23.917 (23917 ms).
+[01:10:56.761] Total runtime for 30 seeds: 00:12:03.591 (723591 ms).
+Run 'PQ-PO-Local10' 30 times...
+[01:10:56.762] Run 1 of 30 started.
+Finalizing CustomAlgorithm...
+[01:11:20.808] Run 1 of 30 terminated after 00:00:24.046 (24046 ms).
+[01:11:20.809] Run 2 of 30 started.
+Finalizing CustomAlgorithm...
+[01:11:45.102] Run 2 of 30 terminated after 00:00:24.291 (24291 ms).
+[01:11:45.102] Run 3 of 30 started.
+Finalizing CustomAlgorithm...
+[01:12:08.861] Run 3 of 30 terminated after 00:00:23.758 (23758 ms).
+[01:12:08.862] Run 4 of 30 started.
+Finalizing CustomAlgorithm...
+[01:12:32.971] Run 4 of 30 terminated after 00:00:24.109 (24109 ms).
+[01:12:32.972] Run 5 of 30 started.
+Finalizing CustomAlgorithm...
+[01:12:56.730] Run 5 of 30 terminated after 00:00:23.757 (23757 ms).
+[01:12:56.731] Run 6 of 30 started.
+Finalizing CustomAlgorithm...
+[01:13:20.474] Run 6 of 30 terminated after 00:00:23.743 (23743 ms).
+[01:13:20.475] Run 7 of 30 started.
+Finalizing CustomAlgorithm...
+[01:13:44.172] Run 7 of 30 terminated after 00:00:23.696 (23696 ms).
+[01:13:44.172] Run 8 of 30 started.
+Finalizing CustomAlgorithm...
+[01:14:08.148] Run 8 of 30 terminated after 00:00:23.975 (23975 ms).
+[01:14:08.149] Run 9 of 30 started.
+Finalizing CustomAlgorithm...
+[01:14:31.937] Run 9 of 30 terminated after 00:00:23.788 (23788 ms).
+[01:14:31.938] Run 10 of 30 started.
+Finalizing CustomAlgorithm...
+[01:14:55.561] Run 10 of 30 terminated after 00:00:23.622 (23622 ms).
+[01:14:55.562] Run 11 of 30 started.
+Finalizing CustomAlgorithm...
+[01:15:19.502] Run 11 of 30 terminated after 00:00:23.940 (23940 ms).
+[01:15:19.503] Run 12 of 30 started.
+Finalizing CustomAlgorithm...
+[01:15:43.222] Run 12 of 30 terminated after 00:00:23.718 (23718 ms).
+[01:15:43.223] Run 13 of 30 started.
+Finalizing CustomAlgorithm...
+[01:16:07.818] Run 13 of 30 terminated after 00:00:24.594 (24594 ms).
+[01:16:07.819] Run 14 of 30 started.
+Finalizing CustomAlgorithm...
+[01:16:31.602] Run 14 of 30 terminated after 00:00:23.783 (23783 ms).
+[01:16:31.603] Run 15 of 30 started.
+Finalizing CustomAlgorithm...
+[01:16:55.125] Run 15 of 30 terminated after 00:00:23.521 (23521 ms).
+[01:16:55.126] Run 16 of 30 started.
+Finalizing CustomAlgorithm...
+[01:17:19.584] Run 16 of 30 terminated after 00:00:24.458 (24458 ms).
+[01:17:19.585] Run 17 of 30 started.
+Finalizing CustomAlgorithm...
+[01:17:43.185] Run 17 of 30 terminated after 00:00:23.600 (23600 ms).
+[01:17:43.186] Run 18 of 30 started.
+Finalizing CustomAlgorithm...
+[01:18:07.101] Run 18 of 30 terminated after 00:00:23.914 (23914 ms).
+[01:18:07.102] Run 19 of 30 started.
+Finalizing CustomAlgorithm...
+[01:18:30.881] Run 19 of 30 terminated after 00:00:23.778 (23778 ms).
+[01:18:30.882] Run 20 of 30 started.
+Finalizing CustomAlgorithm...
+[01:18:54.931] Run 20 of 30 terminated after 00:00:24.049 (24049 ms).
+[01:18:54.932] Run 21 of 30 started.
+Finalizing CustomAlgorithm...
+[01:19:18.821] Run 21 of 30 terminated after 00:00:23.889 (23889 ms).
+[01:19:18.822] Run 22 of 30 started.
+Finalizing CustomAlgorithm...
+[01:19:42.532] Run 22 of 30 terminated after 00:00:23.709 (23709 ms).
+[01:19:42.532] Run 23 of 30 started.
+Finalizing CustomAlgorithm...
+[01:20:06.231] Run 23 of 30 terminated after 00:00:23.698 (23698 ms).
+[01:20:06.231] Run 24 of 30 started.
+Finalizing CustomAlgorithm...
+[01:20:30.094] Run 24 of 30 terminated after 00:00:23.862 (23862 ms).
+[01:20:30.095] Run 25 of 30 started.
+Finalizing CustomAlgorithm...
+[01:20:53.623] Run 25 of 30 terminated after 00:00:23.527 (23527 ms).
+[01:20:53.624] Run 26 of 30 started.
+Finalizing CustomAlgorithm...
+[01:21:17.062] Run 26 of 30 terminated after 00:00:23.438 (23438 ms).
+[01:21:17.063] Run 27 of 30 started.
+Finalizing CustomAlgorithm...
+[01:21:40.992] Run 27 of 30 terminated after 00:00:23.928 (23928 ms).
+[01:21:40.992] Run 28 of 30 started.
+Finalizing CustomAlgorithm...
+[01:22:04.946] Run 28 of 30 terminated after 00:00:23.953 (23953 ms).
+[01:22:04.947] Run 29 of 30 started.
+Finalizing CustomAlgorithm...
+[01:22:28.819] Run 29 of 30 terminated after 00:00:23.871 (23871 ms).
+[01:22:28.820] Run 30 of 30 started.
+Finalizing CustomAlgorithm...
+[01:22:54.162] Run 30 of 30 terminated after 00:00:25.341 (25341 ms).
+[01:22:54.163] Total runtime for 30 seeds: 00:11:57.400 (717400 ms).
+Run 'Tournament-Local10' 30 times...
+[01:22:54.166] Run 1 of 30 started.
+Finalizing CustomAlgorithm...
+[01:23:19.418] Run 1 of 30 terminated after 00:00:25.251 (25251 ms).
+[01:23:19.418] Run 2 of 30 started.
+Finalizing CustomAlgorithm...
+[01:23:43.337] Run 2 of 30 terminated after 00:00:23.918 (23918 ms).
+[01:23:43.338] Run 3 of 30 started.
+Finalizing CustomAlgorithm...
+[01:24:06.879] Run 3 of 30 terminated after 00:00:23.540 (23540 ms).
+[01:24:06.880] Run 4 of 30 started.
+Finalizing CustomAlgorithm...
+[01:24:30.866] Run 4 of 30 terminated after 00:00:23.986 (23986 ms).
+[01:24:30.867] Run 5 of 30 started.
+Finalizing CustomAlgorithm...
+[01:24:55.054] Run 5 of 30 terminated after 00:00:24.186 (24186 ms).
+[01:24:55.055] Run 6 of 30 started.
+Finalizing CustomAlgorithm...
+[01:25:19.149] Run 6 of 30 terminated after 00:00:24.094 (24094 ms).
+[01:25:19.150] Run 7 of 30 started.
+Finalizing CustomAlgorithm...
+[01:25:43.595] Run 7 of 30 terminated after 00:00:24.444 (24444 ms).
+[01:25:43.596] Run 8 of 30 started.
+Finalizing CustomAlgorithm...
+[01:26:07.517] Run 8 of 30 terminated after 00:00:23.920 (23920 ms).
+[01:26:07.518] Run 9 of 30 started.
+Finalizing CustomAlgorithm...
+[01:26:31.106] Run 9 of 30 terminated after 00:00:23.587 (23587 ms).
+[01:26:31.106] Run 10 of 30 started.
+Finalizing CustomAlgorithm...
+[01:26:54.748] Run 10 of 30 terminated after 00:00:23.641 (23641 ms).
+[01:26:54.748] Run 11 of 30 started.
+Finalizing CustomAlgorithm...
+[01:27:18.764] Run 11 of 30 terminated after 00:00:24.015 (24015 ms).
+[01:27:18.765] Run 12 of 30 started.
+Finalizing CustomAlgorithm...
+[01:27:42.359] Run 12 of 30 terminated after 00:00:23.594 (23594 ms).
+[01:27:42.360] Run 13 of 30 started.
+Finalizing CustomAlgorithm...
+[01:28:06.043] Run 13 of 30 terminated after 00:00:23.682 (23682 ms).
+[01:28:06.044] Run 14 of 30 started.
+Finalizing CustomAlgorithm...
+[01:28:30.309] Run 14 of 30 terminated after 00:00:24.265 (24265 ms).
+[01:28:30.310] Run 15 of 30 started.
+Finalizing CustomAlgorithm...
+[01:28:54.423] Run 15 of 30 terminated after 00:00:24.112 (24112 ms).
+[01:28:54.424] Run 16 of 30 started.
+Finalizing CustomAlgorithm...
+[01:29:17.879] Run 16 of 30 terminated after 00:00:23.455 (23455 ms).
+[01:29:17.880] Run 17 of 30 started.
+Finalizing CustomAlgorithm...
+[01:29:41.635] Run 17 of 30 terminated after 00:00:23.754 (23754 ms).
+[01:29:41.636] Run 18 of 30 started.
+Finalizing CustomAlgorithm...
+[01:30:05.497] Run 18 of 30 terminated after 00:00:23.861 (23861 ms).
+[01:30:05.498] Run 19 of 30 started.
+Finalizing CustomAlgorithm...
+[01:30:29.368] Run 19 of 30 terminated after 00:00:23.869 (23869 ms).
+[01:30:29.373] Run 20 of 30 started.
+Finalizing CustomAlgorithm...
+[01:30:53.403] Run 20 of 30 terminated after 00:00:24.030 (24030 ms).
+[01:30:53.404] Run 21 of 30 started.
+Finalizing CustomAlgorithm...
+[01:31:18.271] Run 21 of 30 terminated after 00:00:24.866 (24866 ms).
+[01:31:18.272] Run 22 of 30 started.
+Finalizing CustomAlgorithm...
+[01:31:43.300] Run 22 of 30 terminated after 00:00:25.027 (25027 ms).
+[01:31:43.300] Run 23 of 30 started.
+Finalizing CustomAlgorithm...
+[01:32:07.441] Run 23 of 30 terminated after 00:00:24.140 (24140 ms).
+[01:32:07.443] Run 24 of 30 started.
+Finalizing CustomAlgorithm...
+[01:32:31.809] Run 24 of 30 terminated after 00:00:24.367 (24367 ms).
+[01:32:31.810] Run 25 of 30 started.
+Finalizing CustomAlgorithm...
+[01:32:55.518] Run 25 of 30 terminated after 00:00:23.708 (23708 ms).
+[01:32:55.519] Run 26 of 30 started.
+Finalizing CustomAlgorithm...
+[01:33:19.557] Run 26 of 30 terminated after 00:00:24.037 (24037 ms).
+[01:33:19.558] Run 27 of 30 started.
+Finalizing CustomAlgorithm...
+[01:33:43.501] Run 27 of 30 terminated after 00:00:23.943 (23943 ms).
+[01:33:43.502] Run 28 of 30 started.
+Finalizing CustomAlgorithm...
+[01:34:07.425] Run 28 of 30 terminated after 00:00:23.922 (23922 ms).
+[01:34:07.426] Run 29 of 30 started.
+Finalizing CustomAlgorithm...
+[01:34:31.671] Run 29 of 30 terminated after 00:00:24.245 (24245 ms).
+[01:34:31.672] Run 30 of 30 started.
+Finalizing CustomAlgorithm...
+[01:34:55.417] Run 30 of 30 terminated after 00:00:23.745 (23745 ms).
+[01:34:55.418] Total runtime for 30 seeds: 00:12:01.252 (721252 ms).
+Run 'NSGAII-2' 30 times...
+[01:34:55.679] Run 1 of 30 started.
+[01:35:14.099] Run 1 of 30 terminated after 00:00:18.420 (18420 ms).
+[01:35:14.100] Run 2 of 30 started.
+[01:35:33.612] Run 2 of 30 terminated after 00:00:19.511 (19511 ms).
+[01:35:33.612] Run 3 of 30 started.
+[01:35:54.371] Run 3 of 30 terminated after 00:00:20.758 (20758 ms).
+[01:35:54.372] Run 4 of 30 started.
+[01:36:14.491] Run 4 of 30 terminated after 00:00:20.119 (20119 ms).
+[01:36:14.492] Run 5 of 30 started.
+[01:36:33.794] Run 5 of 30 terminated after 00:00:19.301 (19301 ms).
+[01:36:33.794] Run 6 of 30 started.
+[01:36:54.801] Run 6 of 30 terminated after 00:00:21.006 (21006 ms).
+[01:36:54.802] Run 7 of 30 started.
+[01:37:14.956] Run 7 of 30 terminated after 00:00:20.154 (20154 ms).
+[01:37:14.957] Run 8 of 30 started.
+[01:37:34.835] Run 8 of 30 terminated after 00:00:19.878 (19878 ms).
+[01:37:34.838] Run 9 of 30 started.
+[01:37:56.678] Run 9 of 30 terminated after 00:00:21.840 (21840 ms).
+[01:37:56.679] Run 10 of 30 started.
+[01:38:16.379] Run 10 of 30 terminated after 00:00:19.700 (19700 ms).
+[01:38:16.380] Run 11 of 30 started.
+[01:38:35.353] Run 11 of 30 terminated after 00:00:18.972 (18972 ms).
+[01:38:35.354] Run 12 of 30 started.
+[01:38:54.336] Run 12 of 30 terminated after 00:00:18.981 (18981 ms).
+[01:38:54.337] Run 13 of 30 started.
+[01:39:13.699] Run 13 of 30 terminated after 00:00:19.361 (19361 ms).
+[01:39:13.700] Run 14 of 30 started.
+[01:39:34.952] Run 14 of 30 terminated after 00:00:21.252 (21252 ms).
+[01:39:34.953] Run 15 of 30 started.
+[01:39:55.819] Run 15 of 30 terminated after 00:00:20.866 (20866 ms).
+[01:39:55.820] Run 16 of 30 started.
+[01:40:13.928] Run 16 of 30 terminated after 00:00:18.107 (18107 ms).
+[01:40:13.928] Run 17 of 30 started.
+[01:40:33.105] Run 17 of 30 terminated after 00:00:19.176 (19176 ms).
+[01:40:33.106] Run 18 of 30 started.
+[01:40:53.980] Run 18 of 30 terminated after 00:00:20.873 (20873 ms).
+[01:40:53.981] Run 19 of 30 started.
+[01:41:13.367] Run 19 of 30 terminated after 00:00:19.385 (19385 ms).
+[01:41:13.368] Run 20 of 30 started.
+[01:41:31.989] Run 20 of 30 terminated after 00:00:18.620 (18620 ms).
+[01:41:31.990] Run 21 of 30 started.
+[01:41:52.325] Run 21 of 30 terminated after 00:00:20.334 (20334 ms).
+[01:41:52.326] Run 22 of 30 started.
+[01:42:12.191] Run 22 of 30 terminated after 00:00:19.865 (19865 ms).
+[01:42:12.192] Run 23 of 30 started.
+[01:42:32.284] Run 23 of 30 terminated after 00:00:20.092 (20092 ms).
+[01:42:32.285] Run 24 of 30 started.
+[01:42:52.054] Run 24 of 30 terminated after 00:00:19.768 (19768 ms).
+[01:42:52.055] Run 25 of 30 started.
+[01:43:10.932] Run 25 of 30 terminated after 00:00:18.877 (18877 ms).
+[01:43:10.933] Run 26 of 30 started.
+[01:43:29.933] Run 26 of 30 terminated after 00:00:18.999 (18999 ms).
+[01:43:29.935] Run 27 of 30 started.
+[01:43:50.392] Run 27 of 30 terminated after 00:00:20.457 (20457 ms).
+[01:43:50.393] Run 28 of 30 started.
+[01:44:11.176] Run 28 of 30 terminated after 00:00:20.783 (20783 ms).
+[01:44:11.177] Run 29 of 30 started.
+[01:44:31.214] Run 29 of 30 terminated after 00:00:20.036 (20036 ms).
+[01:44:31.215] Run 30 of 30 started.
+[01:44:51.390] Run 30 of 30 terminated after 00:00:20.174 (20174 ms).
+[01:44:51.391] Total runtime for 30 seeds: 00:09:55.711 (595711 ms).
+-------------------------------------------------------
+Analysis
+-------------------------------------------------------
+---------------------------
+Analysis Results
+---------------------------
+Tournament-Local10:
+    Hypervolume: 
+        Aggregate: 0.7002195266482011
+        Min: 0.5444002837835358
+        Median: 0.5766579642117066
+        Max: 0.6585091507582843
+        Mean: 0.5820667575307754
+        StandardDeviation: 0.028504231021949687
+        Variance: 8.124911861526789E-4
+        Count: 30
+        Indifferent: [Chebycheff-10, PQ-PO-Local10, PQ-HV-Local10]
+        EffectSize: [
+            - { measure: CohensD, algorithm: NSGAII-2, effectSize: 2.0392436161137857, magnitude: large }
+            - { measure: CliffsDelta, algorithm: NSGAII-2, effectSize: 0.8466666666666667, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII-2, effectSize: 0.9233333333333333 }
+            - { measure: CohensD, algorithm: Chebycheff-10, effectSize: 0.1331625507593028, magnitude: negligible }
+            - { measure: CliffsDelta, algorithm: Chebycheff-10, effectSize: 0.09333333333333334, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: Chebycheff-10, effectSize: 0.4533333333333333 }
+            - { measure: CohensD, algorithm: PQ-PO-Local10, effectSize: 0.2566599360048379, magnitude: small }
+            - { measure: CliffsDelta, algorithm: PQ-PO-Local10, effectSize: 0.08888888888888889, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: PQ-PO-Local10, effectSize: 0.5444444444444444 }
+            - { measure: CohensD, algorithm: PQ-HV-Local10, effectSize: 0.10117860451321863, magnitude: negligible }
+            - { measure: CliffsDelta, algorithm: PQ-HV-Local10, effectSize: 0.1111111111111111, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: PQ-HV-Local10, effectSize: 0.4444444444444444 }
+        ]
+        Values: [0.5699975014212098, 0.5508755455612402, 0.6040947524138115, 0.5610669389888321, 0.5976118858997633, 0.5914497229981649, 0.5557859389285781, 0.5812198932405297, 0.6585091507582843, 0.5705148106169907, 0.5444002837835358, 0.5546257633272815, 0.5815053053047157, 0.6031126561038676, 0.6042608791329702, 0.6485805207129889, 0.5450478856063525, 0.5487700006764552, 0.5806238255603725, 0.5653917209935628, 0.5590982422842049, 0.5708834384691877, 0.6067270795510814, 0.5741612961958729, 0.5791546322275403, 0.607811041540592, 0.6046117689937834, 0.5642237282463185, 0.6145643303808845, 0.5633221860042912]
+NSGAII-2:
+    Hypervolume: 
+        Aggregate: 0.6799167572348852
+        Min: 0.3907788689002586
+        Median: 0.4942625811465039
+        Max: 0.5947298784177808
+        Mean: 0.4916534909307656
+        StandardDeviation: 0.05584790973886115
+        Variance: 0.003118989022199982
+        Count: 30
+        Indifferent: []
+        EffectSize: [
+            - { measure: CohensD, algorithm: Tournament-Local10, effectSize: 2.0392436161137857, magnitude: large }
+            - { measure: CliffsDelta, algorithm: Tournament-Local10, effectSize: 0.8466666666666667, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: Tournament-Local10, effectSize: 0.07666666666666666 }
+            - { measure: CohensD, algorithm: Chebycheff-10, effectSize: 2.081330444045004, magnitude: large }
+            - { measure: CliffsDelta, algorithm: Chebycheff-10, effectSize: 0.86, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: Chebycheff-10, effectSize: 0.07 }
+            - { measure: CohensD, algorithm: PQ-PO-Local10, effectSize: 1.971174269596916, magnitude: large }
+            - { measure: CliffsDelta, algorithm: PQ-PO-Local10, effectSize: 0.8288888888888889, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: PQ-PO-Local10, effectSize: 0.08555555555555555 }
+            - { measure: CohensD, algorithm: PQ-HV-Local10, effectSize: 2.1867480777816315, magnitude: large }
+            - { measure: CliffsDelta, algorithm: PQ-HV-Local10, effectSize: 0.8755555555555555, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: PQ-HV-Local10, effectSize: 0.06222222222222222 }
+        ]
+        Values: [0.5947298784177808, 0.4818873095120206, 0.5288611638334159, 0.39435653573196905, 0.4747758155911316, 0.42751354963231913, 0.5250385102052044, 0.455271634483138, 0.5728977554051824, 0.4924905099851461, 0.5008905484953512, 0.42974523665438014, 0.4960346523078617, 0.4108123418330858, 0.5053054684491388, 0.3907788689002586, 0.5031144211549395, 0.5692771084337347, 0.5607180319451323, 0.4582502957033615, 0.5691227237717991, 0.523121022904403, 0.47707817571656497, 0.47566321220956875, 0.47360393021157415, 0.5589578118409713, 0.4587963727054336, 0.40454626726082415, 0.5278561850140289, 0.5081093896132474]
+Chebycheff-10:
+    Hypervolume: 
+        Aggregate: 0.7143282771847805
+        Min: 0.5325730776989233
+        Median: 0.5825012607507656
+        Max: 0.6779570488957352
+        Mean: 0.5860720293237165
+        StandardDeviation: 0.03157354500184964
+        Variance: 9.968887439838244E-4
+        Count: 30
+        Indifferent: [Tournament-Local10, PQ-PO-Local10, PQ-HV-Local10]
+        EffectSize: [
+            - { measure: CohensD, algorithm: Tournament-Local10, effectSize: 0.1331625507593028, magnitude: negligible }
+            - { measure: CliffsDelta, algorithm: Tournament-Local10, effectSize: 0.09333333333333334, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: Tournament-Local10, effectSize: 0.5466666666666666 }
+            - { measure: CohensD, algorithm: NSGAII-2, effectSize: 2.081330444045004, magnitude: large }
+            - { measure: CliffsDelta, algorithm: NSGAII-2, effectSize: 0.86, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII-2, effectSize: 0.93 }
+            - { measure: CohensD, algorithm: PQ-PO-Local10, effectSize: 0.38676717859774407, magnitude: small }
+            - { measure: CliffsDelta, algorithm: PQ-PO-Local10, effectSize: 0.1688888888888889, magnitude: small }
+            - { measure: VarghaDelaneyA, algorithm: PQ-PO-Local10, effectSize: 0.5844444444444444 }
+            - { measure: CohensD, algorithm: PQ-HV-Local10, effectSize: 0.05172950808179793, magnitude: negligible }
+            - { measure: CliffsDelta, algorithm: PQ-HV-Local10, effectSize: 0.0, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: PQ-HV-Local10, effectSize: 0.5 }
+        ]
+        Values: [0.5604133164378697, 0.613151796684455, 0.6121683537804185, 0.5494895622467503, 0.583599746811306, 0.5643789770955968, 0.5709417693605472, 0.5976519847912759, 0.5820435394546221, 0.6317730805806399, 0.5465295084447375, 0.5325730776989233, 0.5799610542627132, 0.5938719260604061, 0.553389620124333, 0.5696080555097104, 0.5972278153710728, 0.6286451972272656, 0.5995888004071078, 0.5628415545744622, 0.6779570488957352, 0.6092103574113804, 0.5572111046927436, 0.6167102680126901, 0.5744967312171058, 0.5478310043828282, 0.5669122036089563, 0.6197569616365003, 0.5992674808824335, 0.582958982046909]
+PQ-PO-Local10:
+    Hypervolume: 
+        Aggregate: 0.6748510669740745
+        Min: 0.5232535186407727
+        Median: 0.5740683481643469
+        Max: 0.6174136614952963
+        Mean: 0.5754939195538249
+        StandardDeviation: 0.02234197879084946
+        Variance: 4.991640162907671E-4
+        Count: 30
+        Indifferent: [Tournament-Local10, Chebycheff-10, PQ-HV-Local10]
+        EffectSize: [
+            - { measure: CohensD, algorithm: Tournament-Local10, effectSize: 0.2566599360048379, magnitude: small }
+            - { measure: CliffsDelta, algorithm: Tournament-Local10, effectSize: 0.08888888888888889, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: Tournament-Local10, effectSize: 0.45555555555555555 }
+            - { measure: CohensD, algorithm: NSGAII-2, effectSize: 1.971174269596916, magnitude: large }
+            - { measure: CliffsDelta, algorithm: NSGAII-2, effectSize: 0.8288888888888889, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII-2, effectSize: 0.9144444444444444 }
+            - { measure: CohensD, algorithm: Chebycheff-10, effectSize: 0.38676717859774407, magnitude: small }
+            - { measure: CliffsDelta, algorithm: Chebycheff-10, effectSize: 0.1688888888888889, magnitude: small }
+            - { measure: VarghaDelaneyA, algorithm: Chebycheff-10, effectSize: 0.41555555555555557 }
+            - { measure: CohensD, algorithm: PQ-HV-Local10, effectSize: 0.4102361954475331, magnitude: small }
+            - { measure: CliffsDelta, algorithm: PQ-HV-Local10, effectSize: 0.2088888888888889, magnitude: small }
+            - { measure: VarghaDelaneyA, algorithm: PQ-HV-Local10, effectSize: 0.39555555555555555 }
+        ]
+        Values: [0.573811690827236, 0.5682706036615008, 0.5515391703801511, 0.5533649437934386, 0.5232535186407727, 0.5922645719865767, 0.6174136614952963, 0.5604806784214486, 0.5606572179127468, 0.5733874252718634, 0.5909975833700095, 0.6018395729034859, 0.5605254694577396, 0.5661437278327736, 0.592229580422145, 0.5748272804197875, 0.5404188787111917, 0.58944108415771, 0.5697513627569637, 0.6074445957345365, 0.5616713543672406, 0.5852129293429424, 0.5747233110524286, 0.6129362885331283, 0.5688782584676605, 0.5412369569602609, 0.5773931341805578, 0.5986705589013406, 0.6017071711503549, 0.5743250055014577]
+PQ-HV-Local10:
+    Hypervolume: 
+        Aggregate: 0.6967964949912406
+        Min: 0.546123138673415
+        Median: 0.5855934353853773
+        Max: 0.6254994292237446
+        Mean: 0.5846574275903352
+        StandardDeviation: 0.02233232310725573
+        Variance: 4.987326553668682E-4
+        Count: 30
+        Indifferent: [Tournament-Local10, Chebycheff-10, PQ-PO-Local10]
+        EffectSize: [
+            - { measure: CohensD, algorithm: Tournament-Local10, effectSize: 0.10117860451321863, magnitude: negligible }
+            - { measure: CliffsDelta, algorithm: Tournament-Local10, effectSize: 0.1111111111111111, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: Tournament-Local10, effectSize: 0.5555555555555556 }
+            - { measure: CohensD, algorithm: NSGAII-2, effectSize: 2.1867480777816315, magnitude: large }
+            - { measure: CliffsDelta, algorithm: NSGAII-2, effectSize: 0.8755555555555555, magnitude: large }
+            - { measure: VarghaDelaneyA, algorithm: NSGAII-2, effectSize: 0.9377777777777778 }
+            - { measure: CohensD, algorithm: Chebycheff-10, effectSize: 0.05172950808179793, magnitude: negligible }
+            - { measure: CliffsDelta, algorithm: Chebycheff-10, effectSize: 0.0, magnitude: negligible }
+            - { measure: VarghaDelaneyA, algorithm: Chebycheff-10, effectSize: 0.5 }
+            - { measure: CohensD, algorithm: PQ-PO-Local10, effectSize: 0.4102361954475331, magnitude: small }
+            - { measure: CliffsDelta, algorithm: PQ-PO-Local10, effectSize: 0.2088888888888889, magnitude: small }
+            - { measure: VarghaDelaneyA, algorithm: PQ-PO-Local10, effectSize: 0.6044444444444445 }
+        ]
+        Values: [0.582216949991748, 0.5961632374245843, 0.5991868489707594, 0.5792787130256186, 0.5719603299040913, 0.6144176706827309, 0.5715258293447761, 0.5928504428673599, 0.5647647593449001, 0.5547180388219544, 0.5709165887293461, 0.6254994292237446, 0.5746809269039628, 0.5721058205424436, 0.5981436864782773, 0.546123138673415, 0.5896815687407162, 0.5974922860297776, 0.6235829390621849, 0.5889699207790066, 0.5923168587592379, 0.5624860611021101, 0.6205206900662006, 0.5894912526819605, 0.6236336556270748, 0.5551622127780528, 0.5565146545084447, 0.591723813060461, 0.5551132612642349, 0.5784812423208818]
+---------------------------
+- Save Analysis to 'output/analysis/analysis.txt'
+- Save Indicator BoxPlots to 'output/analysis/'
+-------------------------------------------------------
+Results
+-------------------------------------------------------
+REFERENCE SET:
+
+7.0 -1.0 3.333333333333333
+12.0 -6.666666666666667 3.6666666666666665
+3.0 -3.0 12.0
+4.0 -4.0 11.0
+10.0 -7.5 10.0
+5.0 -4.0 8.5
+12.0 -2.6333333333333333 1.9833333333333332
+5.0 -5.0 10.0
+13.0 -1.0238095238095237 1.238095238095238
+14.0 -1.5238095238095237 1.2380952380952381
+11.0 -0.7380952380952381 1.5238095238095237
+15.0 -1.5666666666666667 1.4416666666666669
+12.0 -3.6 2.05
+13.0 -1.4833333333333334 1.4416666666666669
+12.0 -2.4833333333333334 1.4833333333333332
+11.0 -3.7 2.25
+9.0 -1.2333333333333334 2.025
+9.0 -2.2333333333333334 2.066666666666667
+10.0 -1.5666666666666667 1.6916666666666667
+12.0 -2.6 1.9
+10.0 -3.7 2.35
+8.0 -2.5666666666666664 3.066666666666667
+8.0 -1.2333333333333334 2.511111111111111
+11.0 -2.5666666666666664 1.5666666666666667
+10.0 -2.5666666666666664 1.7333333333333332
+7.0 -2.2333333333333334 3.4
+8.0 -2.2333333333333334 2.566666666666667
+9.0 -2.6 2.566666666666667
+11.0 -3.6 2.15
+13.0 -2.5666666666666664 1.4833333333333332
+8.0 -3.3 3.45
+9.0 -2.5666666666666664 2.2333333333333334
+3.0 -2.0 10.5
+4.0 -2.5 8.75
+4.0 -3.5 10.0
+5.0 -3.5 7.75
+6.0 -4.5 6.75
+0.0 -0.0 15.0
+1.0 -0.5 13.0
+1.0 -1.0 14.0
+1.0 -0.0 12.5
+2.0 -1.0 11.5
+2.0 -1.5 12.0
+3.0 -1.5 9.75
+3.0 -1.0 9.333333333333332
+4.0 -1.0 7.25
+2.0 -2.0 13.0
+3.0 -2.5 11.0
+2.0 -0.0 10.333333333333332
+4.0 -2.0 8.333333333333332
+5.0 -3.0 7.333333333333332
+2.0 -0.5 10.75
+25.0 -2.7666666666666666 1.15
+30.0 -2.7666666666666666 0.9833333333333332
+33.0 -3.15 1.15
+3.0 -0.5 8.666666666666666
+4.0 -1.5 7.666666666666666
+4.0 -3.0 9.5
+3.0 -0.0 8.25
+5.0 -4.5 9.0
+16.0 -6.166666666666667 2.5833333333333335
+24.0 -1.95 1.2416666666666667
+5.0 -2.0 6.25
+15.0 -4.0 2.1999999999999997
+13.0 -6.166666666666666 3.166666666666667
+10.0 -3.0 2.0
+11.0 -3.0 1.9999999999999998
+13.0 -3.333333333333333 1.6666666666666665
+10.0 -4.4 2.6
+13.0 -7.0 3.5
+6.0 -5.0 7.5
+13.0 -2.566666666666667 1.5666666666666664
+15.0 -2.5 1.4444444444444444
+16.0 -3.833333333333333 1.3333333333333333
+32.0 -4.333333333333334 1.25
+5.0 -1.5 6.0
+16.0 -4.9 2.1999999999999997
+27.0 -4.4 1.5
+30.0 -5.4 1.6999999999999997
+6.0 -3.5 5.999999999999999
+7.0 -4.5 4.999999999999999
+12.0 -4.0 2.375
+19.0 -5.0 1.875
+33.0 -2.8333333333333335 1.0555555555555554
+31.0 -1.2142857142857144 0.6547619047619047
+34.0 -1.5476190476190477 0.9523809523809523
+6.0 -2.5 5.249999999999999
+19.0 -4.5 1.8333333333333333
+22.0 -4.166666666666666 1.5555555555555554
+28.0 -4.5 1.4166666666666665
+10.0 -6.666666666666667 4.333333333333333
+34.0 -3.7857142857142856 1.1428571428571428
+22.0 -4.9 1.8
+23.0 -4.833333333333334 1.5833333333333333
+26.0 -3.5 1.2
+22.0 -5.666666666666667 2.4166666666666665
+14.0 -5.7 2.6
+7.0 -3.0 3.75
+26.0 -4.333333333333334 1.4999999999999998
+28.0 -3.54 1.3
+4.0 -0.5 7.0
+6.0 -6.0 9.0
+19.0 -8.0 4.5
+6.0 -4.0 6.333333333333332
+8.0 -5.0 4.999999999999999
+6.0 -3.0 5.25
+7.0 -4.0 4.25
+8.0 -4.5 3.75
+9.0 -5.5 2.75
+21.0 -4.0 1.5
+7.0 -6.0 7.0
+8.0 -7.0 6.0
+9.0 -7.0 4.5
+11.0 -8.0 5.5
+12.0 -8.0 5.0
+13.0 -7.5 4.0
+21.0 -5.666666666666666 2.083333333333333
+24.0 -6.666666666666667 2.8333333333333335
+25.0 -6.5 2.5
+8.0 -4.666666666666666 4.333333333333333
+24.0 -3.0666666666666664 1.2833333333333332
+26.0 -6.166666666666666 2.333333333333333
+13.0 -5.666666666666666 2.25
+14.0 -7.0 3.25
+20.0 -5.166666666666667 1.9444444444444442
+11.0 -4.5 2.5
+20.0 -0.638095238095238 0.7285714285714285
+21.0 -0.638095238095238 0.5738095238095238
+23.0 -0.780952380952381 0.5857142857142856
+24.0 -1.2 1.0
+25.0 -1.3 1.0666666666666667
+28.0 -1.4666666666666668 1.0666666666666667
+29.0 -4.9 1.65
+18.0 -6.0 2.5
+20.0 -7.666666666666667 4.0
+22.0 -4.333333333333334 1.6666666666666665
+18.0 -4.666666666666666 2.1666666666666665
+32.0 -5.666666666666667 2.083333333333333
+25.0 -5.5 1.75
+8.0 -4.166666666666667 3.666666666666667
+35.0 -3.033333333333333 0.9833333333333333
+23.0 -6.333333333333333 2.9166666666666665
+20.0 -5.5 2.0
+23.0 -5.4 1.7
+26.0 -5.666666666666666 1.8333333333333333
+7.0 -5.5 5.75
+17.0 -4.5 2.125
+10.0 -6.333333333333333 4.0
+21.0 -4.333333333333334 1.6666666666666667
+23.0 -6.0 2.25
+18.0 -4.5 1.875
+6.0 -5.5 8.0
+8.0 -5.5 5.333333333333333
+12.0 -5.833333333333333 2.833333333333333
+13.0 -6.0 3.0
+14.0 -6.166666666666667 3.083333333333333
+4.0 -0.0 6.200000000000001
+5.0 -1.0 5.200000000000001
+6.0 -2.0 4.2
+16.0 -7.0 3.0
+19.0 -3.8333333333333335 1.3333333333333333
+16.0 -4.25 1.958333333333333
+16.0 -3.9 1.7999999999999998
+17.0 -4.4 1.7999999999999998
+11.0 -5.833333333333333 3.0833333333333335
+5.0 -2.5 6.666666666666665
+
+- Save objectives of all algorithms to 'output/objectives/objective_values.txt'
+- Save models of all algorithms to 'output/models/'
+- Save objectives of algorithms seperately to 'output/objectives/<algorithm>.txt'
+- Save models of algorithms seperately to 'output/solutions/<algorithm>.txt'´
+
+NSGAII-2
+4.0 -1.0 8.0
+7.0 -1.0 3.333333333333333
+13.0 -4.5 2.25
+12.0 -6.666666666666667 3.6666666666666665
+11.0 -6.0 4.333333333333334
+5.0 -2.0 7.0
+8.0 -3.5 4.0
+12.0 -5.666666666666666 3.166666666666667
+10.0 -5.5 3.5
+6.0 -2.0 5.0
+9.0 -4.0 3.5
+9.0 -5.0 4.0
+5.0 -1.0 6.0
+7.0 -4.0 5.0
+10.0 -4.333333333333333 3.3333333333333335
+13.0 -5.5 2.75
+13.0 -5.666666666666666 3.1666666666666665
+8.0 -4.5 4.5
+11.0 -4.5 3.0
+12.0 -4.4 2.6
+10.0 -4.4 3.4000000000000004
+7.0 -3.0 4.5
+3.0 -1.0 10.0
+3.0 -3.0 12.0
+4.0 -4.0 11.0
+6.0 -3.0 5.999999999999999
+6.0 -4.0 6.5
+8.0 -5.0 5.5
+11.0 -5.166666666666666 3.1666666666666665
+10.0 -3.833333333333333 3.0
+12.0 -5.333333333333333 3.0000000000000004
+16.0 -2.7 1.8333333333333335
+16.0 -5.833333333333333 3.4166666666666665
+14.0 -6.75 5.0
+14.0 -7.333333333333333 5.666666666666666
+13.0 -7.0 5.5
+10.0 -7.5 10.0
+9.0 -7.0 8.0
+8.0 -6.5 11.0
+7.0 -6.0 9.0
+7.0 -5.5 8.5
+11.0 -7.5 6.0
+9.0 -6.5 7.0
+2.0 -1.0 12.0
+5.0 -4.0 8.5
+5.0 -3.0 7.5
+12.0 -5.0 3.0
+20.0 -8.0 5.0
+18.0 -6.0 3.5
+16.0 -7.5 5.75
+15.0 -7.0 4.5
+12.0 -2.6333333333333333 1.9833333333333332
+13.0 -2.65 1.9
+7.0 -2.25 4.15
+10.0 -5.75 4.75
+7.0 -5.0 6.75
+9.0 -6.0 5.75
+6.0 -5.0 8.5
+5.0 -5.0 10.0
+8.0 -6.0 7.0
+11.0 -6.5 5.5
+13.0 -1.0238095238095237 1.238095238095238
+15.0 -2.6333333333333333 1.8722222222222222
+14.0 -1.5238095238095237 1.2380952380952381
+11.0 -0.7380952380952381 1.5238095238095237
+15.0 -1.5666666666666667 1.4416666666666669
+6.0 -2.3 5.5
+12.0 -3.6 2.05
+13.0 -1.4833333333333334 1.4416666666666669
+5.0 -1.2 6.5
+12.0 -2.4833333333333334 1.4833333333333332
+6.0 -1.2333333333333334 4.4
+7.0 -2.3 4.45
+8.0 -4.75 5.499999999999999
+11.0 -3.7 2.25
+9.0 -1.2333333333333334 2.025
+8.0 -4.25 4.25
+10.0 -2.7 2.2
+9.0 -3.75 3.333333333333333
+9.0 -4.75 3.75
+13.0 -3.1 2.0
+7.0 -3.3 4.75
+9.0 -2.2333333333333334 2.066666666666667
+5.0 -1.3 6.75
+9.0 -3.3 2.75
+10.0 -1.5666666666666667 1.6916666666666667
+12.0 -2.6 1.9
+10.0 -3.7 2.35
+8.0 -2.5666666666666664 3.066666666666667
+8.0 -1.2333333333333334 2.511111111111111
+11.0 -2.5666666666666664 1.5666666666666667
+10.0 -2.5666666666666664 1.7333333333333332
+4.0 -1.25 8.666666666666666
+7.0 -2.2333333333333334 3.4
+8.0 -2.2333333333333334 2.566666666666667
+9.0 -2.6 2.566666666666667
+11.0 -3.6 2.15
+13.0 -2.5666666666666664 1.4833333333333332
+9.0 -3.7 3.05
+11.0 -2.7 2.1
+8.0 -3.3 3.45
+9.0 -2.5666666666666664 2.2333333333333334
+11.0 -2.6 2.0
+3.0 -2.0 10.5
+4.0 -2.5 8.75
+9.0 -5.5 4.5
+4.0 -3.5 10.0
+11.0 -4.083333333333334 2.833333333333333
+5.0 -3.5 7.75
+8.0 -5.5 5.75
+12.0 -3.75 2.4166666666666665
+5.0 -2.5 7.25
+6.0 -4.5 6.75
+7.0 -4.5 5.5
+12.0 -4.083333333333334 2.583333333333333
+18.0 -3.3166666666666664 1.5999999999999999
+18.0 -3.6666666666666665 1.6249999999999998
+16.0 -4.166666666666666 1.9999999999999998
+17.0 -3.833333333333333 1.7499999999999998
+
+
+Tournament-Local10
+0.0 -0.0 15.0
+1.0 -0.5 13.0
+1.0 -1.0 14.0
+1.0 -0.0 12.5
+2.0 -1.0 11.5
+3.0 -2.0 10.5
+2.0 -1.5 12.0
+3.0 -1.5 9.75
+3.0 -1.0 9.333333333333332
+4.0 -1.0 7.25
+2.0 -2.0 13.0
+3.0 -2.5 11.0
+4.0 -3.5 10.0
+3.0 -3.0 12.0
+4.0 -4.0 11.0
+2.0 -0.0 10.333333333333332
+4.0 -2.0 8.333333333333332
+5.0 -3.0 7.333333333333332
+2.0 -0.5 10.75
+9.0 -6.0 6.0
+25.0 -2.7666666666666666 1.15
+30.0 -2.7666666666666666 0.9833333333333332
+33.0 -3.15 1.15
+5.0 -5.0 10.0
+7.0 -6.0 7.5
+8.0 -6.0 7.0
+8.0 -5.5 5.5
+3.0 -0.5 8.666666666666666
+9.0 -5.166666666666667 4.0
+11.0 -5.166666666666667 2.75
+4.0 -2.5 8.75
+4.0 -1.5 7.666666666666666
+4.0 -0.5 7.166666666666666
+4.0 -3.0 9.5
+3.0 -0.0 8.25
+36.0 -4.583333333333333 1.6666666666666665
+22.0 -4.4 1.8
+5.0 -4.0 8.5
+28.0 -6.5 2.5
+5.0 -4.5 9.0
+29.0 -6.166666666666666 2.333333333333333
+31.0 -5.666666666666666 2.083333333333333
+27.0 -2.7857142857142856 1.3214285714285716
+8.0 -5.0 5.333333333333332
+29.0 -4.4 1.45
+14.0 -4.5 2.25
+16.0 -6.166666666666667 2.5833333333333335
+14.0 -5.5 2.375
+24.0 -1.95 1.2416666666666667
+4.0 -0.0 6.75
+5.0 -0.0 5.500000000000001
+6.0 -1.0 4.5
+5.0 -2.0 6.25
+6.0 -2.0 4.75
+8.0 -3.0 3.75
+10.0 -5.666666666666667 4.666666666666666
+7.0 -1.3333333333333333 3.6666666666666674
+18.0 -8.0 5.0
+15.0 -4.0 2.1999999999999997
+17.0 -4.0 1.8333333333333333
+7.0 -4.0 4.833333333333333
+9.0 -5.166666666666666 3.666666666666667
+13.0 -6.166666666666666 3.166666666666667
+23.0 -4.4 1.7999999999999998
+6.0 -3.0 5.833333333333332
+7.0 -2.166666666666667 4.111111111111111
+10.0 -3.0 2.0
+11.0 -3.0 1.9999999999999998
+13.0 -3.333333333333333 1.6666666666666665
+10.0 -4.4 2.6
+11.0 -5.5 3.5
+12.0 -5.666666666666667 3.3333333333333335
+13.0 -7.0 3.5
+14.0 -5.666666666666667 2.6666666666666665
+15.0 -5.666666666666667 2.666666666666666
+25.0 -5.25 2.0
+28.0 -5.5 2.0
+30.0 -5.666666666666667 2.25
+10.0 -4.666666666666666 3.6666666666666665
+14.0 -6.166666666666667 3.333333333333333
+6.0 -5.0 7.5
+20.0 -3.8333333333333335 1.75
+5.0 -2.5 6.666666666666666
+13.0 -2.566666666666667 1.5666666666666664
+15.0 -2.5 1.4444444444444444
+16.0 -3.833333333333333 1.3333333333333333
+32.0 -4.333333333333334 1.25
+5.0 -1.5 6.0
+22.0 -7.333333333333333 4.333333333333334
+10.0 -6.0 5.0
+16.0 -4.9 2.1999999999999997
+33.0 -5.666666666666667 2.083333333333333
+18.0 -5.666666666666667 2.5
+27.0 -4.4 1.5
+30.0 -5.4 1.6999999999999997
+33.0 -5.5 1.875
+7.0 -5.0 6.0
+6.0 -4.5 6.75
+5.0 -3.5 7.75
+6.0 -3.5 5.999999999999999
+7.0 -4.5 4.999999999999999
+8.0 -4.5 4.125
+9.0 -4.0 3.375
+17.0 -7.5 5.5
+9.0 -7.0 6.5
+13.0 -7.5 6.5
+12.0 -4.0 2.375
+22.0 -3.8333333333333335 1.3333333333333333
+26.0 -3.9 1.5499999999999998
+19.0 -5.0 1.875
+33.0 -2.8333333333333335 1.0555555555555554
+8.0 -0.16666666666666666 3.433333333333333
+28.0 -1.0333333333333332 1.075
+31.0 -1.2142857142857144 0.6547619047619047
+34.0 -1.5476190476190477 0.9523809523809523
+9.0 -5.5 5.0
+7.0 -1.5 3.7499999999999996
+8.0 -4.666666666666666 5.166666666666666
+6.0 -2.5 5.249999999999999
+7.0 -2.5 4.333333333333333
+8.0 -2.333333333333333 3.4999999999999996
+7.0 -3.0 4.666666666666666
+28.0 -5.666666666666666 2.25
+27.0 -4.333333333333334 1.4999999999999998
+9.0 -3.0 2.833333333333333
+12.0 -2.0 1.8571428571428568
+36.0 -3.5 1.2
+10.0 -4.5 3.4166666666666665
+12.0 -4.5 2.5
+8.0 -3.5 4.0
+18.0 -6.666666666666666 3.1666666666666665
+21.0 -6.5 3.0
+22.0 -7.0 3.0
+26.0 -6.666666666666666 2.8333333333333335
+20.0 -5.5 2.25
+10.0 -7.0 5.5
+12.0 -6.5 4.5
+19.0 -6.0 2.5
+27.0 -5.666666666666666 2.416666666666667
+19.0 -4.5 1.8333333333333333
+22.0 -4.166666666666666 1.5555555555555554
+24.0 -4.5 1.6666666666666665
+9.0 -4.166666666666667 3.6666666666666665
+13.0 -5.666666666666667 2.8333333333333335
+16.0 -6.5 3.25
+22.0 -8.0 4.5
+24.0 -7.666666666666667 4.0
+
+
+Chebycheff-10
+0.0 -0.0 15.0
+1.0 -0.5 13.0
+1.0 -1.0 14.0
+1.0 -0.0 12.5
+2.0 -0.0 10.333333333333332
+2.0 -2.0 13.0
+2.0 -1.0 11.5
+2.0 -1.5 12.0
+3.0 -2.5 11.0
+4.0 -3.5 10.0
+5.0 -4.5 9.0
+7.0 -5.0 5.999999999999999
+2.0 -0.5 10.75
+3.0 -1.5 9.75
+7.0 -4.5 5.25
+12.0 -3.4166666666666665 2.333333333333333
+3.0 -3.0 12.0
+4.0 -4.0 11.0
+15.0 -4.5 2.5555555555555554
+3.0 -1.0 9.333333333333332
+3.0 -2.0 10.5
+4.0 -3.0 9.5
+5.0 -2.5 7.0
+4.0 -1.0 7.25
+16.0 -3.9 2.0
+17.0 -5.0 2.5
+18.0 -4.5 2.0
+5.0 -4.0 8.5
+4.0 -2.0 8.333333333333332
+19.0 -2.983333333333333 1.5583333333333331
+28.0 -4.5 1.4166666666666665
+6.0 -4.5 7.0
+4.0 -1.5 7.999999999999999
+10.0 -6.666666666666667 4.333333333333333
+4.0 -2.5 8.75
+5.0 -3.5 7.75
+6.0 -0.0 4.749999999999999
+31.0 -3.8333333333333335 1.3333333333333333
+34.0 -3.7857142857142856 1.1428571428571428
+22.0 -4.9 1.8
+23.0 -4.833333333333334 1.5833333333333333
+20.0 -3.3333333333333335 1.5
+21.0 -3.3333333333333335 1.4999999999999998
+5.0 -5.0 10.0
+26.0 -3.5 1.2
+19.0 -6.333333333333334 3.3333333333333335
+13.0 -6.0 3.5
+5.0 -3.0 7.333333333333332
+17.0 -4.9 2.2
+5.0 -1.5 6.0
+8.0 -1.5 3.416666666666667
+3.0 -0.5 8.666666666666666
+8.0 -5.5 5.5
+11.0 -6.0 4.25
+20.0 -5.5 2.333333333333333
+22.0 -5.666666666666667 2.4166666666666665
+17.0 -4.0 2.125
+14.0 -5.7 2.6
+15.0 -5.75 2.875
+13.0 -2.833333333333333 2.0
+5.0 -1.0 5.75
+6.0 -2.0 4.75
+7.0 -3.0 3.75
+8.0 -3.25 3.5
+19.0 -4.4 1.8
+10.0 -1.0 2.3571428571428568
+15.0 -4.0 2.2
+16.0 -4.0 2.1999999999999997
+26.0 -4.333333333333334 1.4999999999999998
+23.0 -6.166666666666666 2.75
+26.0 -5.5 2.0
+32.0 -5.0 1.75
+19.0 -7.0 3.5
+15.0 -6.5 3.9166666666666665
+28.0 -3.54 1.3
+6.0 -5.0 7.5
+6.0 -3.5 6.0
+4.0 -0.5 7.0
+14.0 -6.166666666666666 3.666666666666667
+16.0 -6.666666666666666 3.666666666666667
+6.0 -6.0 9.0
+15.0 -3.2 1.9000000000000001
+13.0 -3.6666666666666665 2.333333333333333
+19.0 -8.0 4.5
+34.0 -6.0 2.25
+35.0 -5.666666666666666 2.0
+10.0 -4.0 2.625
+6.0 -4.0 6.333333333333332
+8.0 -5.0 4.999999999999999
+16.0 -3.333333333333333 1.6666666666666665
+4.0 -0.0 6.75
+3.0 -0.0 8.25
+5.0 -2.0 6.25
+6.0 -3.0 5.25
+7.0 -4.0 4.25
+8.0 -4.5 3.75
+9.0 -5.5 2.75
+34.0 -4.333333333333333 1.25
+12.0 -4.4 2.6
+13.0 -4.4 2.5999999999999996
+33.0 -5.333333333333333 1.8333333333333333
+19.0 -3.833333333333333 1.7777777777777777
+21.0 -4.0 1.5
+7.0 -6.0 7.0
+8.0 -7.0 6.0
+9.0 -7.0 4.5
+11.0 -8.0 5.5
+12.0 -8.0 5.0
+13.0 -7.5 4.0
+19.0 -5.166666666666666 2.333333333333333
+20.0 -4.833333333333333 1.9999999999999998
+21.0 -5.666666666666666 2.083333333333333
+20.0 -7.0 3.0
+24.0 -3.833333333333333 1.3333333333333333
+24.0 -6.666666666666667 2.8333333333333335
+25.0 -6.5 2.5
+19.0 -6.166666666666666 3.166666666666667
+16.0 -5.666666666666666 2.5833333333333335
+17.0 -5.833333333333333 2.75
+25.0 -4.9 1.7999999999999998
+22.0 -5.0 2.0
+8.0 -4.666666666666666 4.333333333333333
+19.0 -3.0666666666666664 1.5666666666666667
+24.0 -3.0666666666666664 1.2833333333333332
+12.0 -1.6333333333333333 2.188888888888889
+14.0 -1.6333333333333333 1.8555555555555556
+5.0 -0.0 5.500000000000001
+18.0 -6.666666666666667 3.833333333333333
+10.0 -3.1666666666666665 2.583333333333333
+16.0 -4.5 2.5
+20.0 -6.0 2.5
+26.0 -6.166666666666666 2.333333333333333
+8.0 -1.0 2.8333333333333335
+9.0 -1.3333333333333333 2.5
+
+
+PQ-HV-Local10
+0.0 -0.0 15.0
+1.0 -1.0 14.0
+2.0 -2.0 13.0
+7.0 -6.0 7.0
+9.0 -5.5 5.0
+1.0 -0.0 12.5
+2.0 -1.0 11.5
+1.0 -0.5 13.0
+3.0 -2.0 10.5
+4.0 -2.0 8.333333333333332
+4.0 -3.0 9.5
+27.0 -6.166666666666667 2.75
+31.0 -6.75 3.0
+2.0 -1.5 12.0
+3.0 -1.5 9.75
+12.0 -5.0 2.916666666666667
+13.0 -5.666666666666666 2.25
+14.0 -7.0 3.25
+4.0 -1.5 7.999999999999999
+5.0 -2.5 6.999999999999999
+3.0 -3.0 12.0
+3.0 -2.5 11.0
+4.0 -3.5 10.0
+10.0 -3.166666666666667 2.888888888888889
+17.0 -3.166666666666667 1.8333333333333333
+20.0 -5.166666666666667 1.9444444444444442
+9.0 -1.4 3.1
+12.0 -1.3333333333333333 2.0
+21.0 -8.0 5.0
+11.0 -4.5 2.5
+19.0 -0.6000000000000001 1.4222222222222223
+20.0 -0.638095238095238 0.7285714285714285
+21.0 -0.638095238095238 0.5738095238095238
+23.0 -0.780952380952381 0.5857142857142856
+24.0 -1.2 1.0
+25.0 -1.3 1.0666666666666667
+27.0 -1.4666666666666668 1.2333333333333332
+28.0 -1.4666666666666668 1.0666666666666667
+29.0 -1.9666666666666668 1.2333333333333332
+31.0 -2.1333333333333333 1.2888888888888888
+29.0 -4.9 1.65
+3.0 -1.0 9.333333333333332
+5.0 -1.0 6.0
+18.0 -6.0 2.5
+4.0 -0.5 7.0
+5.0 -0.5 5.75
+4.0 -2.5 8.75
+5.0 -3.5 7.75
+6.0 -3.5 5.999999999999999
+9.0 -4.5 3.75
+2.0 -0.5 10.75
+13.0 -6.0 3.25
+6.0 -3.0 5.333333333333332
+16.0 -3.5 2.2
+14.0 -3.0 2.0
+5.0 -4.0 8.5
+6.0 -4.0 6.333333333333332
+20.0 -7.666666666666667 4.0
+22.0 -4.333333333333334 1.6666666666666665
+31.0 -5.875 2.25
+12.0 -2.7 2.2666666666666666
+27.0 -4.333333333333334 1.4999999999999998
+30.0 -6.5 2.5
+18.0 -4.666666666666666 2.1666666666666665
+6.0 -5.0 7.5
+29.0 -5.666666666666667 2.4166666666666665
+4.0 -1.0 7.25
+6.0 -1.0 4.583333333333333
+7.0 -2.0 3.583333333333333
+3.0 -0.0 8.25
+5.0 -3.0 7.333333333333332
+32.0 -5.666666666666667 2.083333333333333
+25.0 -5.5 1.75
+8.0 -4.166666666666667 3.666666666666667
+4.0 -4.0 11.0
+8.0 -7.0 8.0
+2.0 -0.0 10.333333333333332
+32.0 -2.1333333333333333 1.0833333333333333
+35.0 -3.033333333333333 0.9833333333333333
+9.0 -3.5 3.5
+11.0 -7.0 4.5
+13.0 -7.0 4.0
+19.0 -4.666666666666667 2.0
+5.0 -4.5 9.0
+6.0 -4.5 6.75
+10.0 -6.5 5.5
+10.0 -5.0 3.5
+28.0 -6.166666666666666 2.6666666666666665
+4.0 -0.0 6.75
+9.0 -5.0 4.333333333333333
+11.0 -5.0 3.25
+9.0 -5.166666666666667 4.666666666666666
+10.0 -4.833333333333333 3.0
+7.0 -3.0 4.333333333333333
+3.0 -0.5 8.666666666666666
+22.0 -3.333333333333333 1.4166666666666665
+9.0 -6.0 6.0
+16.0 -8.0 6.0
+36.0 -6.0 2.25
+6.0 -2.5 5.25
+23.0 -6.333333333333333 2.9166666666666665
+20.0 -5.5 2.0
+23.0 -5.4 1.7
+26.0 -5.666666666666666 1.8333333333333333
+7.0 -5.5 5.75
+10.0 -5.5 3.75
+11.0 -5.166666666666667 3.4166666666666665
+12.0 -5.166666666666666 3.0833333333333335
+17.0 -4.5 2.125
+18.0 -4.4 1.8499999999999999
+5.0 -2.0 6.25
+29.0 -3.833333333333333 1.3333333333333333
+19.0 -6.666666666666667 3.0
+30.0 -4.4 1.5
+29.0 -8.0 4.5
+8.0 -6.0 6.25
+17.0 -7.5 4.5
+18.0 -7.5 4.0
+9.0 -4.833333333333333 4.25
+7.0 -4.5 4.999999999999999
+8.0 -5.0 5.333333333333332
+10.0 -6.333333333333333 4.0
+9.0 -0.0 2.916666666666667
+29.0 -6.666666666666667 2.9166666666666665
+16.0 -3.3333333333333335 2.166666666666667
+18.0 -6.166666666666667 3.0833333333333335
+5.0 -5.0 10.0
+9.0 -3.0 3.25
+21.0 -3.3333333333333335 1.6666666666666665
+19.0 -3.5 1.8333333333333333
+20.0 -2.166666666666667 1.5
+21.0 -2.6666666666666665 1.6388888888888886
+25.0 -2.5666666666666664 1.3555555555555556
+26.0 -3.6666666666666665 1.5555555555555554
+11.0 -1.8333333333333333 2.444444444444444
+12.0 -1.6666666666666665 2.25
+13.0 -1.8333333333333333 2.1333333333333333
+16.0 -2.033333333333333 1.9333333333333331
+18.0 -2.3666666666666667 1.5999999999999999
+
+
+PQ-PO-Local10
+0.0 -0.0 15.0
+1.0 -0.0 12.5
+2.0 -1.0 11.5
+3.0 -2.0 10.5
+4.0 -3.0 9.5
+1.0 -1.0 14.0
+5.0 -4.0 8.5
+2.0 -2.0 13.0
+3.0 -3.0 12.0
+2.0 -1.5 12.0
+3.0 -2.5 11.0
+4.0 -2.0 8.333333333333332
+1.0 -0.5 13.0
+3.0 -1.5 9.75
+7.0 -4.5 5.333333333333333
+9.0 -5.5 4.0
+2.0 -0.0 10.333333333333332
+8.0 -3.5 4.0
+21.0 -4.333333333333334 1.6666666666666667
+13.0 -2.8333333333333335 1.8333333333333333
+14.0 -2.8333333333333335 1.833333333333333
+2.0 -0.5 10.75
+4.0 -2.5 8.75
+5.0 -3.0 7.333333333333332
+29.0 -7.5 4.5
+3.0 -1.0 9.333333333333332
+8.0 -5.0 5.25
+4.0 -3.5 10.0
+4.0 -1.5 7.999999999999999
+32.0 -7.5 4.0
+23.0 -4.166666666666666 1.5555555555555554
+12.0 -6.0 4.333333333333333
+15.0 -5.5 2.75
+17.0 -5.0 2.25
+20.0 -4.9 2.1999999999999997
+24.0 -4.4 1.7
+20.0 -4.666666666666666 2.1666666666666665
+23.0 -7.666666666666667 4.666666666666666
+23.0 -6.0 2.25
+4.0 -4.0 11.0
+5.0 -5.0 10.0
+18.0 -7.166666666666667 5.333333333333333
+7.0 -4.0 5.0
+8.0 -2.666666666666667 3.722222222222222
+6.0 -4.0 6.333333333333332
+8.0 -4.0 4.416666666666666
+11.0 -4.166666666666666 3.0
+7.0 -3.0 4.5
+11.0 -4.0 2.666666666666667
+9.0 -6.5 5.0
+10.0 -6.0 4.5
+11.0 -2.083333333333333 2.208333333333333
+4.0 -0.5 7.0
+8.0 -2.75 3.75
+6.0 -5.0 7.5
+27.0 -1.4666666666666668 1.2333333333333334
+28.0 -1.9666666666666668 1.3166666666666667
+15.0 -6.5 4.0
+20.0 -7.5 5.0
+15.0 -4.666666666666667 2.5
+18.0 -4.5 1.875
+17.0 -1.7 1.5333333333333332
+15.0 -5.166666666666666 2.5833333333333335
+6.0 -3.0 5.833333333333333
+16.0 -3.333333333333333 1.6666666666666665
+3.0 -0.5 8.666666666666666
+31.0 -2.7857142857142856 1.2857142857142856
+36.0 -2.75 1.125
+30.0 -8.0 5.0
+7.0 -6.0 7.0
+8.0 -6.0 6.0
+6.0 -2.5 5.833333333333332
+9.0 -3.666666666666667 3.3333333333333335
+10.0 -3.5833333333333335 2.8333333333333335
+12.0 -3.8333333333333335 2.5
+14.0 -4.5 2.5999999999999996
+6.0 -3.5 5.999999999999999
+27.0 -8.0 6.5
+29.0 -4.416666666666666 1.4791666666666665
+33.0 -4.583333333333333 1.6666666666666665
+32.0 -5.5 1.875
+22.0 -6.0 2.5
+15.0 -4.666666666666666 2.4166666666666665
+5.0 -3.5 8.0
+6.0 -5.5 8.0
+8.0 -5.5 5.333333333333333
+8.0 -1.0 3.5
+9.0 -2.0 2.5
+7.0 -5.5 6.75
+12.0 -5.833333333333333 2.833333333333333
+13.0 -6.0 3.0
+14.0 -6.166666666666667 3.083333333333333
+16.0 -5.666666666666666 2.583333333333333
+15.0 -3.1666666666666665 2.0416666666666665
+28.0 -5.5 2.0
+34.0 -7.666666666666667 4.0
+7.0 -5.0 6.0
+8.0 -4.5 5.0
+14.0 -4.166666666666666 2.25
+3.0 -0.0 8.25
+4.0 -0.0 6.200000000000001
+5.0 -1.0 5.200000000000001
+6.0 -2.0 4.2
+7.0 -2.4 3.8
+14.0 -7.0 4.25
+16.0 -7.0 3.0
+18.0 -3.3333333333333335 1.3333333333333333
+19.0 -3.8333333333333335 1.3333333333333333
+27.0 -4.4 1.5
+31.0 -2.7 1.2
+19.0 -5.666666666666666 2.4166666666666665
+24.0 -4.999999999999999 2.1666666666666665
+25.0 -5.0 1.75
+13.0 -4.0 2.4000000000000004
+23.0 -6.166666666666667 2.75
+33.0 -8.0 4.5
+18.0 -6.0 2.75
+29.0 -6.666666666666666 2.8333333333333335
+4.0 -1.0 7.25
+6.0 -4.5 7.25
+30.0 -5.166666666666666 1.9999999999999998
+16.0 -4.25 1.958333333333333
+16.0 -3.9 1.7999999999999998
+17.0 -4.4 1.7999999999999998
+11.0 -3.5 2.5
+20.0 -1.25 1.25
+11.0 -6.0 4.333333333333334
+13.0 -6.333333333333333 4.0
+29.0 -7.333333333333333 4.333333333333333
+29.0 -8.0 5.5
+14.0 -3.5416666666666665 2.1666666666666665
+12.0 -7.0 4.666666666666666
+18.0 -5.25 2.375
+19.0 -5.5 2.333333333333333
+9.0 -4.5 3.916666666666667
+10.0 -5.5 3.416666666666667
+11.0 -5.833333333333333 3.0833333333333335
+5.0 -2.0 6.25
+8.0 -2.0 3.6666666666666665
+5.0 -2.5 6.666666666666665
+6.0 -2.166666666666667 5.666666666666666
+7.0 -3.166666666666667 4.666666666666666
+
+
+Search finished
